@@ -1,0 +1,54 @@
+a:hover {
+	text-decoration: underline;
+}
+p {
+	text-align: justify;
+	text-justify: inter-word;
+}
+
+.main_menu {
+	font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
+    margin-left: 0px;
+	float: left;
+    padding: 5px;
+    width: 300px;
+}
+.sub_menu {
+	display: block;
+	font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
+	font-size: 10pt;
+	padding: 5px;
+}
+.sub_menu a {
+	color: black;
+	text-decoration: none;
+}
+.sub_menu a:hover {
+	text-decoration: underline;
+}
+.item_menu {
+	font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
+	color: black;
+	font-size: 8pt;
+	padding: 5px;
+}
+.content {
+	font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
+	font-size: 10pt;
+	width: 600px;
+    margin-left: 300px;
+    padding: 10px;
+}
+.content_title {
+	font-weight: bold;
+}
+.content_date {
+	font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
+	color: gray;
+	font-size: 8pt;
+}
+.content_tags {
+	font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
+	color: blue;
+	font-size: 8pt;
+}

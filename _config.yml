@@ -1,0 +1,6 @@
+name: "Lee A Johnson"
+description: "Photo Projects and Blog of Lee A Johnson."
+url: ""
+paginate: 10
+markdown: kramdown
+permalink: pretty

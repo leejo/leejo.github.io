@@ -1,1 +1,14 @@
-<img src="test.jpg" width="500px" height="500px" />
+---
+title: Lee A Johnson
+layout: main_content
+---
+<strong>{{ site.description }}</strong><br/>
+<br/>
+Latest Blog Posts (<a href="{{ site.url }}/blog/">Archive</a>):<br />
+<br />
+{% for post in site.posts %}
+	<strong>{{ post.title }}</strong><br />
+	<p>{{ post.excerpt }}
+	<a href="{{ post.url }}">Read More...</a><br />
+	</p>
+{% endfor %}

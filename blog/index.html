@@ -1,0 +1,18 @@
+---
+title: Blog Archive
+---
+<html>
+	{% include header.html %}
+<body>
+	{% include main_menu.html %}
+	<div class="content">
+		<strong>Blog Archive</strong><br />
+		<br />
+		{% for post in site.posts %}
+			{{ post.date | date: "%Y/%m/%d" }} - <a href="{{ post.url }}">{{ post.title }}</a>
+			<div class="content_tags">{{ post.tags | join: ', ' }}</div>
+			<br />
+		{% endfor %}
+	</div>
+</body>
+</html>

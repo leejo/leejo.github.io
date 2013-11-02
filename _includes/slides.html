@@ -1,0 +1,22 @@
+<ul class="slides">
+	{% for i in page.images %}
+    <input type="radio" name="radio-btn" id="img-{{ i }}" {% if forloop.first %}checked{% endif %} />
+    <li class="slide-container">
+		<div class="slide">
+			<img src="{{ i }}.jpg" />
+        </div>
+		<div class="nav">
+			{% if forloop.first %}
+				<label for="img-{{ page.images.last }}" class="prev">&#x2039;</label>
+			{% else %}
+				<label for="img-{{ i | minus:1 }}" class="prev">&#x2039;</label>
+			{% endif %}
+			{% if forloop.last %}
+				<label for="img-{{ page.images.first }}" class="next">&#x203a;</label>
+			{% else %}
+				<label for="img-{{ i | plus:1 }}" class="next">&#x203a;</label>
+			{% endif %}
+		</div>
+    </li>
+	{% endfor %}
+</ul>

@@ -1,0 +1,22 @@
+<div class="main_menu" id="main_menu">
+	<li class="sub_menu" id="projects">
+		Projects:
+		<div class="item_menu">
+			<a href="{{ site.url }}/projects/skateboarding/">Skateboarding (2004-2011)</a><br />
+			<a href="{{ site.url }}/projects/the_green_the_blue_the_grey/">The Green The Blue The Grey (2013)</a><br />
+		</div>
+	</li>
+	<li class="sub_menu" id="blog">
+		Blog:
+		<div class="item_menu">
+			{% for post in site.posts limit:5 %}<a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}
+			<a href="{{ site.url }}/blog/">Archive ...</a>
+		</div>
+	</li>
+	<li class="sub_menu" id="about">
+		<a href="{{ site.url }}/about/">About</a>
+	</li>
+	<li class="sub_menu" id="home">
+		<a href="{{ site.url }}/">Home</a>
+	</li>
+</div>

@@ -1,0 +1,18 @@
+<html>
+	{% include header.html %}
+<body>
+	{% include main_menu.html %}
+	<div class="content">
+		<div class="content_title">
+			{{ page.title }}
+		</div>
+		<div class="content_date">
+			{{ page.date | date: "%B %d, %Y" }}
+		</div>
+		{{ content }}
+		<div class="content_tags">
+			{{ page.tags | join: ', ' }}
+		</div>
+	</div>
+</body>
+</html>
