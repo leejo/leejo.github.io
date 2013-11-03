@@ -6,6 +6,13 @@ p {
 	text-justify: inter-word;
 }
 
+pre {
+	color: #666;
+	font-size: 80%;
+	overflow: auto;
+	width: 500px;
+}
+
 .main_menu {
 	font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
     margin-left: 0px;
