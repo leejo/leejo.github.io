@@ -58,12 +58,13 @@ tags:
 		vertical split of the diff with the cursor in the right place
 		ready for you to write the commit message:
 
-			if bufname(1) == '.git/COMMIT_EDITMSG'
+			if match( bufname(1),'COMMIT_EDITMSG' ) != -1
 				:silent !git diff --cached >/tmp/commit.diff
 				:silent :vsplit /tmp/commit.diff
 				:wincmd l
 				:wincmd H
 				:set spell
+				:set ft=gitcommit
 			endif
 
 		[3] I hope you never rebase your WIP commits against mainline, you
