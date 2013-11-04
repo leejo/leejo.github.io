@@ -9,7 +9,7 @@ Latest Blog Posts (<a href="{{ site.url }}/blog/">Archive</a>):<br />
 {% for post in site.posts %}
 	<strong>{{ post.title }}</strong><br />
 	<div class="content_date">
-		{{ page.date | date: "%B %d, %Y" }}
+		{{ post.date | date: "%B %d, %Y" }}
 	</div>
 	<p>{{ post.excerpt }}
 	<a href="{{ post.url }}">Read More...</a><br />
