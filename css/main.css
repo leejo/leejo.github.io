@@ -19,6 +19,7 @@ pre {
 	float: left;
     padding: 5px;
     width: 300px;
+	position: fixed;
 }
 .sub_menu {
 	display: block;
