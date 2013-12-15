@@ -1,0 +1,10 @@
+			{% if forloop.first %}
+				<label for="img-{{ page.images.last }}" class="prev">&#x2039;</label>
+			{% else %}
+				<label for="img-{{ i | minus:1 }}" class="prev">&#x2039;</label>
+			{% endif %}
+			{% if forloop.last %}
+				<label for="img-{{ page.images.first }}" class="next">&#x203a;</label>
+			{% else %}
+				<label for="img-{{ i | plus:1 }}" class="next">&#x203a;</label>
+			{% endif %}
