@@ -1,0 +1,10 @@
+<ul class="slides_wide">
+	{% for i in page.images %}
+    <input type="radio" name="radio-btn" id="img-{{ i }}" {% if forloop.first %}checked{% endif %} />
+    <li class="slide-container">
+		<div class="slide_wide">
+			<img src="{{ page.image_dir }}{{ i }}.jpg" />
+        </div>
+    </li>
+	{% endfor %}
+</ul>
