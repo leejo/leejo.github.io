@@ -9,7 +9,7 @@
 	<li class="sub_menu" id="blog">
 		Blog:
 		<div class="item_menu">
-			{% for post in site.posts limit:5 %}<a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}
+			{% for post in site.posts limit:15 %}<a href="{{ post.url }}">{{ post.title }}</a><br />{% endfor %}
 			<a href="{{ site.url }}/blog/">Archive ...</a>
 		</div>
 	</li>
