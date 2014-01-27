@@ -11,7 +11,7 @@ Latest Blog Posts (<a href="{{ site.url }}/blog/">Archive</a>):<br />
 	<div class="content_date">
 		{{ post.date | date: "%B %d, %Y" }}
 	</div>
-	<p>{{ post.excerpt }}
+	{{ post.excerpt }}
 	<a href="{{ post.url }}">Read More...</a><br />
-	</p>
+	<br />
 {% endfor %}
