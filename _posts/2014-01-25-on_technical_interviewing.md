@@ -147,7 +147,7 @@ I didn't complete the technical test but made sure to send a fairly comprehensiv
 
 So this is where i ended up, and the interesting thing about this position is that there was no technical test. There was an initial phone screener where i talked with my [now] colleague about our backgrounds, our interests, our involvement and history with perl. A week later we met up with the lead developer and discussed the same things and more, including the current codebase and its history, strengths, weaknesses.
 
-Most importantly, on a pure software development level, there was a will to change and a want to progress. Exactly what i stated in the second paragraph of this post. There was also a level of trust and respect from the start, it was explicitly stated that there would be no technical test because they expected my abilities to be true to what we had discussed. Like wise, i stated that i would never apply for a job if i didn't think i was capable of doing it well.
+Most importantly, on a pure software development level, there was a will to change and a want to progress. Exactly what i stated in the second paragraph of this post. There was also a level of trust and respect from the start, it was explicitly stated that there would be no technical test because they expected my abilities to be true to what we had discussed. Likewise, i stated that i would never apply for a job if i didn't think i was capable of doing it well.
 
 **In summary**
 
