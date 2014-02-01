@@ -60,3 +60,15 @@ pre {
 	color: gray;
 	font-size: 8pt;
 }
+.nav_text {
+	font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
+	color: gray;
+	font-size: 8pt;
+    text-align: center;
+	padding-top: 10px;
+}
+
+.nav_text label {
+    cursor: pointer;
+}
+
