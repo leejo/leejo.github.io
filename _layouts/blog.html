@@ -8,7 +8,28 @@
 				{{ page.title }}
 			</div>
 			<div class="content_date">
-				{{ page.date | date: "%B %d, %Y" }}
+				{{ page.date | date: "%B %d, %Y" }} (
+				{% for post in site.posts %}
+					{% if post.url == page.url %}
+						{% assign prev_page = forloop.index %}
+						{% assign next_page = forloop.index | minus:2 %}
+					{% endif %}
+					{% if forloop.last %}
+						{% assign size = forloop.index %}
+					{% endif %}
+				{% endfor %}
+				{% if prev_page < size %}
+					<a href="{{ site.posts[prev_page].url }}">Prev</a>
+				{% else %}
+					Prev
+				{% endif %}
+				/
+				{% if next_page >= 0 %}
+					<a href="{{ site.posts[next_page].url }}">Next</a>
+				{% else %}
+					Next
+				{% endif %}
+			)
 			</div>
 			{{ content }}
 			<div class="content_tags">
