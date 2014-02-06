@@ -155,7 +155,7 @@ I saw a reasonable range of technical tests, from single quick fire questions to
 
 If the position you are trying to fill requires off-the-top-of-the-head knowledge that a certain sorting algorithm is *O*(n^2), then that's fine - but are you really looking for a *perl* developer? If you are after a perl developer maybe you would be more interested if they could tell you that in 5.8 perl's quicksort algorithm was changed to shuffle large arrays to defend against quadratic behaviour, and the default sort algorithm was changed to be mergesort. But then perl is very wide and very deep, with 25 years of history. Not knowing this isn't a big deal either.
 
-Overall i think the short projects are the most useful, both from the candidate and interviewer point of view. They are short enough that someone applying for a position should be able to find enough time to attempt them, and having them completed outside the interview process itself takes away a lot of pressure; they reveal many things that should give real insight into a developer's approach, and discussing the details will reveal even more. If you are advertising for a developer then finding these things out early on is key.
+Overall i think the short projects are the most useful, both from the candidate and interviewer point of view. They are short enough that someone applying for a position should be able to find time to attempt them, and having them completed outside the interview process itself takes away a lot of pressure; they reveal many things that should give real insight into a developer's approach, and discussing the details will reveal even more. If you are advertising for a developer then finding these things out early on is key.
 
 <hr />
 
