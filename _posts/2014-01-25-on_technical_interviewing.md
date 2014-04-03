@@ -65,7 +65,7 @@ I would hope this to be a reasonably recent version or even better the most rece
 
 Using the system/vendor perl is generally a red flag unless there is absolute consistency throughout the entire stack - from early stage development right through to production, and the chances are high that this consistent state won't last unless there are very strong mechanisms in place to keep it that way. If modules are installed on production through use of cpan(m) or apt-get then this is bad.
 
-This is more a question of dependencies than the actual perl binary. [There](https://metacpan.org/pod/Pinto) [are](https://github.com/tokuhirom/plenv) [already](http://search.cpan.org/~miyagawa/Carton-v1.0.11/) [some](https://stratopan.com/) [good](http://search.cpan.org/~haarg/local-lib-2.000004/) [solutions](http://perlbrew.pl/) to this problem, and if none of those look appealing you can just build your own perl with a custom path and stick it in a git repository. If a company is using the system/vendor supplied perl this my indicate a reluctance to install none-core modules[^4].
+This is more a question of dependencies than the actual perl binary. [There](https://metacpan.org/pod/Pinto) [are](https://github.com/tokuhirom/plenv) [already](http://search.cpan.org/~miyagawa/Carton-v1.0.11/) [some](https://stratopan.com/) [good](http://search.cpan.org/~haarg/local-lib-2.000004/) [solutions](http://perlbrew.pl/) to this problem, and if none of those look appealing you can just build your own perl with a custom path and stick it in a git repository. If a company is using the system/vendor supplied perl this may indicate a reluctance to install none-core modules[^4].
 
 * What's your approach to testing perl code?
 
