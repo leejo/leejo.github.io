@@ -6,6 +6,11 @@ p {
 	text-justify: inter-word;
 }
 
+.content img {
+	display: block;
+	margin: 0 auto;
+}
+
 pre {
 	color: #666;
 	font-size: 80%;
@@ -15,10 +20,10 @@ pre {
 
 .main_menu {
 	font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
-    margin-left: 0px;
+	margin-left: 0px;
 	float: left;
-    padding: 5px;
-    width: 300px;
+	padding: 5px;
+	width: 300px;
 	position: fixed;
 }
 .sub_menu {
