@@ -60,7 +60,7 @@ I already arrived with boots and clothing, which would have cost me in the regio
 
 Being resident in Villars means i am eligible for a discounted season lift pass[^8]. This is the price everyone has to pay to use the pistes, except those under nine or over seventy nine years of age. A season lift pass cost me 590 CHF, which is about half the price of standard season lift pass and equivalent to ten single day passes or fifteen days bought in advance.
 
-The advantage of having the season lift pass is being able to use the pistes without the feeling of needing to "get your money's worth". Most days i would get the first lift up, when the snow is best, and then finish at lunchtime when it started to get busy. More than thirty days means it worked out at less than 30 CHF a time. A two hour session in an indoor slope in the UK costs approx 50 CHF, so from that perspective it seems to be very good value.
+The advantage of having the season lift pass is being able to use the pistes without the feeling of needing to "get your money's worth". Most days i would get the first lift up, when the snow is best, and then finish at lunchtime when it started to get busy. More than thirty days means it worked out at less than 30 CHF a time. A two hour session at an indoor slope in the UK costs approx 50 CHF, so from that perspective it seems to be very good value.
 
 **Have Plank Will Travel?**
 
