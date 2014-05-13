@@ -88,7 +88,7 @@ I'm not sure what the learning curve is for snowboarding as i'm still only in my
 
 [^4]: "Et pour donner un coup de pouce à la nature, il y a les canons à neige ... On fabrique de la neige depuis la mi-novembre, [histoire d’avoir une bonne couche de fond qui tiendra jusqu’à Pâques](http://www.swissinfo.ch/fre/societe/Deux_petites_stations_suisses_dans_une_lutte_de_geants.html?cid=38127848)"
 
-[^5]: Recent investment in [Villars](http://www.skiresort.info/ski-resort/villars-gryon-les-diablerets/innovations/) - [video](http://vimeo.com/34234930) and [Zermatt](http://www.skiresort.info/ski-resort/zermatt-cervinia/innovations/). See also "Combien ça côute" in the link in footnote 7 below.
+[^5]: Recent investment in [Villars](http://www.skiresort.info/ski-resort/villars-gryon-les-diablerets/innovations/) - [video](http://vimeo.com/34234930) and [Zermatt](http://www.skiresort.info/ski-resort/zermatt-cervinia/innovations/). See also "Combien ça côute" in the link in footnote 4 above.
 
 [^6]: [http://www.ollon.ch/N389/population-et-altitudes.html](http://www.ollon.ch/N389/population-et-altitudes.html). Walk around Villars during the off-season and you will see many an empty chalet.
 
