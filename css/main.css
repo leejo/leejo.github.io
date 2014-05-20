@@ -77,3 +77,13 @@ pre {
     cursor: pointer;
 }
 
+.menu_entry_1 a  { color: #151515; }
+.menu_entry_2 a  { color: #1C1C1C; }
+.menu_entry_3 a  { color: #424242; }
+.menu_entry_4 a  { color: #585858; }
+.menu_entry_5 a  { color: #6E6E6E; }
+.menu_entry_6 a  { color: #848484; }
+.menu_entry_7 a  { color: #A4A4A4; }
+.menu_entry_8 a  { color: #BDBDBD; }
+.menu_entry_9 a  { color: #D8D8D8; }
+.menu_entry_10 a { color: #E6E6E6; }
