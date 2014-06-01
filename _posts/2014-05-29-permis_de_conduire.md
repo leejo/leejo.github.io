@@ -7,7 +7,7 @@ tags:
     - living_abroad
 ---
 
-I recently swapped my UK driving licence for a Swiss one, the Permis de conduire. I thought i would document the steps involved here for anyone else who has moved to Switzerland and is interested in swapping their licence. Actually there is a compelling reason to do so, even if you don't ever plan on driving in Switzerland; your non-Swiss licence is only valid in the country for the first twelve months of your stay, and if you haven't swapped it by then you will have to go through a full test. That could be expensive and won't be in English.
+I recently swapped my UK driving licence for a Swiss one, the Permis de conduire. I thought i would document the steps involved here for anyone else who has moved to Switzerland and is interested in swapping their licence. Actually there is a compelling reason to do so, even if you don't ever plan on driving in Switzerland; your non-Swiss licence is only valid for driving in the country for the first twelve months of your stay, and if you haven't swapped it within five years you will have to go through a full test. That could be expensive and won't be in English.
 
 The first thing you need to do is get an application form from the Service des automobiles et de la navigation, which, like many things in Suisse, is Cantonal based. So for example in Vaud the place to look is [here](http://www.vd.ch/autorites/departements/dte/automobiles-et-navigation/), and the relevant form (numéro 220) can be found [here](http://www.vd.ch/themes/mobilite/automobile/formulaires/)[^1].
 
