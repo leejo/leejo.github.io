@@ -35,7 +35,7 @@ To use the autoroutes you must purchase an annual pass, currently costing 40 CHF
 
 Not listed: tolls in France where i paid in cash and also the "Non-sterling transaction fee(s)" my creditcard issuer charges. The total for that one weekend trip, including aforementioned fees, comes to 130.29 GBP - 5 times the cost of an annual pass in Switzerland. So yes, that sucks.
 
-I don't plan to keep the car here beyond the end of autumn, partly because my insurance won't cover it but largely because i won't be able to use it once the snow arrives. When the weather turns the use of winter tyres is recommended and using snow chains is dictated by local signs and road conditions[^3]. Even so my car does not have four-wheel drive, and having seen the (relatively mild) weather last winter there is no way i would be out on the roads.
+I don't plan to keep the car here beyond the end of autumn, partly because my insurance won't cover it but largely because i won't be able to use it once the snow arrives. When the weather turns the use of winter tyres is recommended and using snow chains is dictated by local signs and road conditions[^3]. Even so my car does not have four-wheel drive, and having seen the (relatively mild) weather last winter there is no way i would be out on the roads. Besides, if i wanted to keep my car here permanently i would have to import it and again that could be expensive.
 
 <hr />
 
