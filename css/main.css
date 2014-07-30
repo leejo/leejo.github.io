@@ -11,6 +11,15 @@ p {
 	margin: 0 auto;
 }
 
+.crops {
+	margin-left: 55px;
+}
+
+.crops img {
+	display: inline;
+    padding: 10px;
+}
+
 pre {
 	color: #666;
 	font-size: 80%;
