@@ -86,7 +86,7 @@ I'm not sure what the learning curve is for snowboarding as i'm still only in my
 
 [^3]: Sourced from [here](http://www.tutiempo.net) - Note that i had to take figures from Aigle as this was the nearest data point to the resort so these figures will be higher than the real values - Aigle is 1000m lower than Villars-sur-Ollon.
 
-[^4]: "Et pour donner un coup de pouce à la nature, il y a les canons à neige ... On fabrique de la neige depuis la mi-novembre, [histoire d’avoir une bonne couche de fond qui tiendra jusqu’à Pâques](http://www.swissinfo.ch/fre/societe/Deux_petites_stations_suisses_dans_une_lutte_de_geants.html?cid=38127848)"
+[^4]: "Et pour donner un coup de pouce à la nature, il y a les canons à neige ... On fabrique de la neige depuis la mi-novembre, [histoire d’avoir une bonne couche de fond qui tiendra jusqu’à Pâques](http://www.swissinfo.ch/fre/deux-petites-stations-suisses-dans-une-lutte-de-g%C3%A9ants/38127848)"
 
 [^5]: Recent investment in [Villars](http://www.skiresort.info/ski-resort/villars-gryon-les-diablerets/innovations/) - [video](http://vimeo.com/34234930) and [Zermatt](http://www.skiresort.info/ski-resort/zermatt-cervinia/innovations/). See also "Combien ça côute" in the link in footnote 4 above.
 
