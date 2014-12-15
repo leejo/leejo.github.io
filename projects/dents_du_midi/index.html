@@ -1,0 +1,57 @@
+---
+title: Dents du Midi
+layout: main_content
+---
+<strong>Dents du Midi</strong> (2014)<br />
+
+<p>
+Three random images everytime you refresh the page, or click <a href="https://vimeo.com/114580270">here</a> for the full video. These images were shot between January and December 2014. Click <a href="/2014/12/15/dents_du_midi/">here</a> for more information.
+</p>
+
+<script src="{{ site.url }}/js/jquery-1.11.1.min.js"></script>
+<script type="text/javascript">
+
+	$(document).ready(function() {
+		var imgs = {}
+		while ( Object.keys( imgs ).length < 5 ) {
+			var numRand = Math.floor( Math.random() * 78 ) - 1;
+			imgs[numRand] = 1;
+		}
+
+		var class_i = 0;
+
+		for ( var key in imgs ) { 
+			class_i++;
+			var i = key;
+			$("img.dents_pano_" + class_i).each(function() {
+				var src = $(this).attr('src');
+				src = src.replace(
+					"",
+					"{{ site.url }}/projects/dents_du_midi/" + i + ".jpg"
+				);
+				$(this).attr('src', src);
+			});
+
+			$("a.dents_pano_" + class_i).each(function() {
+				var href = $(this).attr('href');
+				href = href.replace(
+					"",
+					"{{ site.url }}/projects/dents_du_midi/" + i + ".jpg"
+				);
+				$(this).attr('href', href);
+			});
+		}
+	});
+</script>
+
+{% assign counter = 1 %}
+{% for post in site.posts limit:3 %}
+
+<p>
+	<a class="dents_pano_{{ counter }}" href="">
+		<img class="dents_pano_{{ counter }}" src="" width="600" alt="" />
+	</a>
+</p>
+
+{% assign counter = counter | plus:1 %}
+{% endfor %}
