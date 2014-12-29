@@ -10,7 +10,7 @@ I've just uploaded a little project that i've been shooting this year: <a href="
 
 The project is a time-lapse, shot from January to December 2014. The project page aims to sort of recreate the way you see the mountain from here, in that every time you see it the view you get is unique. Well, maybe? You can manually load all 78 images, should you wish, but if you're going to do that then just watch the video.
 
-Because the mountain is prominent it features heavily in images and photographs from the region. I thought it would be interesting to photograph the mountain range over the period of several months to show how it changes. The images are straight out of the camera (resized of course), so the colours you see are as true to reality as the camera records. The images below are *not* true to reality, since they're instagram shots :)
+Because the mountain is prominent it features heavily in images and photographs from the region. I thought it would be interesting to photograph the mountain range over a period of several months to show how it changes. The images are straight out of the camera (resized of course), so the colours you see are as true to reality as the camera records. The images below are *not* true to reality, since they're instagram shots :)
 
 <img src="{{ site.url }}/images/2014/12/1.jpg" height="500" width="500" alt="Dents du Midi" />
 
