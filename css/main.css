@@ -8,7 +8,7 @@ p {
 
 .content img {
 	display: block;
-	margin: 0 auto;
+	margin: 0px auto;
 }
 
 .crops {
@@ -22,64 +22,62 @@ p {
 
 pre {
 	color: #666;
-	font-size: 80%;
+	font-size: 60%;
 	overflow: auto;
-	width: 600px;
+	margin: 0px auto;
 }
 
 .main_menu {
-	font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
-	margin-left: 0px;
-	float: left;
-	padding: 5px;
-	width: 300px;
-	position: fixed;
+	margin: 0px auto;
+	padding: 20px 0px;
+	font-family: "open sans", sans-serif;
+	font-size: 12pt;
+	text-decoration: none;
 }
-.sub_menu {
-	display: block;
-	font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
-	font-size: 10pt;
-	padding: 5px;
-}
-.sub_menu a {
+
+.main_menu a {
 	color: black;
 	text-decoration: none;
 }
-.sub_menu a:hover {
+
+.main_menu a:hover {
 	text-decoration: underline;
 }
 .item_menu {
-	font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
+	font-family: "open sans", sans-serif;
 	color: black;
-	font-size: 8pt;
-	padding: 5px;
 }
 .content {
-	font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
-	font-size: 10pt;
-	width: 600px;
-    margin-left: 300px;
-    padding: 10px;
+	max-width: 646px;
+	margin: 0px auto;
+	font-family: "open sans", sans-serif;
+	font-size: 14pt;
+	word-wrap: break-word;
 }
 .content_title {
 	font-weight: bold;
+	font-size: 16pt;
+}
+.footnotes {
+	max-width: 500px;
+	font-size: 10pt;
+	word-wrap: break-word;
 }
 .content_date {
-	font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
+	font-family: "open sans", sans-serif;
 	color: gray;
 	font-size: 8pt;
 }
 .content_tags {
-	font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
+	font-family: "open sans", sans-serif;
 	color: gray;
 	font-size: 8pt;
 }
 .nav_text {
-	font-family: 'Lucida Grande',Verdana,Arial,Sans-Serif;
+	font-family: "open sans", sans-serif;
 	color: gray;
 	font-size: 8pt;
     text-align: center;
-	padding-top: 10px;
 }
 
 .nav_text label {

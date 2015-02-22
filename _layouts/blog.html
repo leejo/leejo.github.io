@@ -5,9 +5,10 @@
 		{% include main_menu.html %}
 		<div class="content">
 			<div class="content_title">
-				{{ page.title }}
+				<center>{{ page.title }}</center>
 			</div>
 			<div class="content_date">
+				<center>
 				{{ page.date | date: "%B %d, %Y" }} (
 				{% for post in site.posts %}
 					{% if post.url == page.url %}
@@ -30,6 +31,7 @@
 					Next
 				{% endif %}
 			)
+				</center>
 			</div>
 			{{ content }}
 			<div class="content_tags">
