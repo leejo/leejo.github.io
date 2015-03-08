@@ -6,7 +6,7 @@ layout: main_content
 <div class="content_date"><center>2014</center></div>
 
 <p>
-Three random images everytime you refresh the page. These images were shot between January and December 2014. Click <a href="/2014/12/15/dents_du_midi/">here</a> for more information.
+A random image everytime you refresh the page. These images were shot between January and December 2014. Click <a href="/2014/12/15/dents_du_midi/">here</a> for more information.
 </p>
 
 <script src="{{ site.url }}/js/jquery-1.11.1.min.js"></script>
@@ -46,7 +46,7 @@ Three random images everytime you refresh the page. These images were shot betwe
 </script>
 
 {% assign counter = 1 %}
-{% for post in site.posts limit:3 %}
+{% for post in site.posts limit:1 %}
 
 <p>
 	<a class="dents_pano_{{ counter }}" href="">
