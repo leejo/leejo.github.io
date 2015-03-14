@@ -9,8 +9,7 @@ images: [ 1 ]
 ---
 
 Mercredi 15 janvier 2014
-<br />
 
-{% include image_wide.html %}
+{% include slides_wide.html %}
 
 <hr />

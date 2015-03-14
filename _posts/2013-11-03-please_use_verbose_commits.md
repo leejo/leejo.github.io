@@ -6,6 +6,8 @@ tags:
     - git
 ---
 
+...
+
 	commit abcdef1234567890abcdef1234567890abcdef12
 	Author: Everyone <everyone@everywhere.com>
 	Date:   All The Time
