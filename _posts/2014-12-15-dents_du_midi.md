@@ -20,7 +20,7 @@ Anyway, it was interesting to shoot this from a technical point of view as i sta
 
 Actually this little project also served as a distraction from others. I'm about to enter the fourth year of what, i think, will be an eight year project; should all go well with that, i'm reasonably confident about it. I'm also contemplating the direction of another project, which i've been working on for about eighteen months; that one might take a completely different direction to what i originally imagined, and i estimated three years for it but may need to revise that to six.
 
-So having a little project like this is quite nice as it allows me to get something out in the meantime and not be tempted to release images from longer term projects that need time to develop. All this digital malarkey[^2] is great, but it breeds impatience and a gottatakethispictureanduploaditrightthismoment approach[^3]. Oh, and on that point here's another Dents du Midi instagram image from about three hours ago:
+So having a little project like this is quite nice as it allows me to get something out in the meantime and not be tempted to release images from longer term projects that need time to develop. All this digital malarkey[^2] is great, but it breeds a gottatakethispictureanduploaditrightthismoment approach[^3]. Oh, and on that point here's another Dents du Midi instagram image from about three hours ago:
 
 <img src="{{ site.url }}/images/2014/12/2.jpg" height="500" width="500" alt="Dents du Midi" />
 

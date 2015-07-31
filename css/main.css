@@ -49,12 +49,12 @@ pre {
 	margin: 0px auto;
 	padding: 20px 0px;
 	font-family: "open sans", sans-serif;
-	font-size: 12pt;
+	font-size: 14pt;
 	text-decoration: none;
 }
 
 .main_menu a {
-	color: black;
+	color: #444;
 	text-decoration: none;
 }
 
@@ -63,18 +63,19 @@ pre {
 }
 .item_menu {
 	font-family: "open sans", sans-serif;
-	color: black;
+	color: #444;
 }
 .content {
 	max-width: 646px;
 	margin: 0px auto;
 	font-family: "open sans", sans-serif;
-	font-size: 14pt;
+	font-size: 16pt;
+	color: #444;
 	word-wrap: break-word;
 }
 .content_title {
 	font-weight: bold;
-	font-size: 16pt;
+	font-size: 18pt;
 }
 .footnotes {
 	max-width: 75%;
