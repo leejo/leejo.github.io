@@ -9,7 +9,7 @@ tags:
 
 I took a brief trip to Hungary to visit the final European Grand Prix. As in: the final Grand Prix in Europe that i hadn't yet been to. Until next year at least, when the European Grand Prix makes a comeback[^1]. At which point the final European Grand Prix i visit will be the actual European Grand Prix[^2].
 
-Whilst Hungary is a [member state of the European Union](https://en.wikipedia.org/wiki/Member_state_of_the_European_Union) it is not a part of the [Eurozone](https://en.wikipedia.org/wiki/Eurozone). Essentially they kept their own currency, the Hungarian Forint (HUF). If you read through the history of Hungary's currency you have to wonder if their non-membership of the Eurozone is due to already having faffed about with their currency many times over the years already[^3] and not wanting to do so again[^4].
+Whilst Hungary is a [member state of the European Union](https://en.wikipedia.org/wiki/Member_state_of_the_European_Union) it is not a part of the [Eurozone](https://en.wikipedia.org/wiki/Eurozone). Essentially they kept their own currency, the Hungarian Forint (HUF). If you read through the history of Hungary's currency you have to wonder if their non-membership of the Eurozone is due to having faffed about with their currency many times over the years already[^3] and not wanting to do so again[^4].
 
 <img src="{{ site.url }}/images/2015/08/huf.jpg" width="500" />
 
