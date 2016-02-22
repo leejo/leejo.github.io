@@ -152,7 +152,7 @@ Where we are today is pretty interesting and lots of fun, tomorrow will be more 
 
 [^1]: "Fixed" meaning either [resolved](https://rt.cpan.org/Public/Dist/Display.html?Status=Resolved;Name=CGI) or [rejected](https://rt.cpan.org/Public/Dist/Display.html?Status=Rejected;Name=CGI)
 
-[^2]: The first five minutes [here](https://www.youtube.com/watch?v=BBYag43ojjM) and slides viewable [here](http://localhost:4000/past_present_future_cgi/)
+[^2]: The first five minutes [here](https://www.youtube.com/watch?v=BBYag43ojjM) and slides viewable [here]({{ site.url }}/past_present_future_cgi/)
 
 [^3]: [CGI::Alternatives](https://metacpan.org/pod/CGI::Alternatives)
 
