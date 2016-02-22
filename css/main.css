@@ -1,21 +1,3 @@
-@font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 400;
-	src: local('Open Sans'), local('OpenSans'), url(https://fonts.gstatic.com/s/opensans/v10/cJZKeOuBrn4kERxqtaUH3bO3LdcAZYWl9Si6vvxL-qU.woff) format('woff');
-}
-@font-face {
-	font-family: 'Open Sans';
-	font-style: normal;
-	font-weight: 700;
-	src: local('Open Sans Bold'), local('OpenSans-Bold'), url(https://fonts.gstatic.com/s/opensans/v10/k3k702ZOKiLJc3WVjuplzKRDOzjiPcYnFooOUGCOsRk.woff) format('woff');
-}
-@font-face {
-	font-family: 'Open Sans';
-	font-style: italic;
-	font-weight: 400;
-	src: local('Open Sans Italic'), local('OpenSans-Italic'), url(https://fonts.gstatic.com/s/opensans/v10/xjAJXh38I15wypJXxuGMBrrIa-7acMAeDBVuclsi6Gc.woff) format('woff');
-}
 a:hover {
 	text-decoration: underline;
 }
@@ -23,53 +5,46 @@ p {
 	text-align: justify;
 	text-justify: inter-word;
 }
-
 .content img {
 	display: block;
 	margin: 0px auto;
 }
-
 .crops {
 	margin-left: 55px;
 }
-
 .crops img {
 	display: inline;
-    padding: 10px;
+	padding: 10px;
 }
-
 pre {
 	color: #666;
 	font-size: 60%;
 	overflow: auto;
 	margin: 0px auto;
 }
-
 .main_menu {
 	margin: 0px auto;
 	padding: 20px 0px;
-	font-family: "open sans", sans-serif;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
 	font-size: 14pt;
 	text-decoration: none;
 }
-
 .main_menu a {
 	color: #444;
 	text-decoration: none;
 }
-
 .main_menu a:hover {
 	text-decoration: underline;
 }
 .item_menu {
-	font-family: "open sans", sans-serif;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
 	color: #444;
 }
 .content {
 	max-width: 646px;
 	margin: 0px auto;
-	font-family: "open sans", sans-serif;
-	font-size: 16pt;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14pt;
 	color: #444;
 	word-wrap: break-word;
 }
@@ -77,40 +52,53 @@ pre {
 	font-weight: bold;
 	font-size: 18pt;
 }
+.footnote {
+	font-size: 8pt;
+}
 .footnotes {
 	max-width: 75%;
 	font-size: 10pt;
 	word-wrap: break-word;
 }
 .content_date {
-	font-family: "open sans", sans-serif;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
 	color: gray;
 	font-size: 8pt;
 }
 .content_tags {
     width: 100%;
-	font-family: "open sans", sans-serif;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
 	color: gray;
 	font-size: 8pt;
 }
 .nav_text {
-	font-family: "open sans", sans-serif;
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
 	color: gray;
 	font-size: 8pt;
-    text-align: center;
+	text-align: center;
 }
-
 .nav_text label {
-    cursor: pointer;
+	cursor: pointer;
 }
-
-.menu_entry_1 a  { color: #151515; }
-.menu_entry_2 a  { color: #1C1C1C; }
-.menu_entry_3 a  { color: #424242; }
-.menu_entry_4 a  { color: #585858; }
-.menu_entry_5 a  { color: #6E6E6E; }
-.menu_entry_6 a  { color: #848484; }
-.menu_entry_7 a  { color: #A4A4A4; }
-.menu_entry_8 a  { color: #BDBDBD; }
-.menu_entry_9 a  { color: #D8D8D8; }
-.menu_entry_10 a { color: #E6E6E6; }
+.slide {
+	display: block;
+	margin: 0px auto;
+	padding: 0px 0px 25px 0px;
+	width: 500px;
+	height: 500px;
+}
+.slide img {
+	width: 100%;
+	height: 100%;
+}
+.slide_wide {
+	display: block;
+	margin: 0px auto;
+	padding: 0px 0px 25px 0px;
+	width: 600px;
+	height: 400px;
+}
+.slide_wide img {
+	width: 100%;
+	height: 100%;
+}
