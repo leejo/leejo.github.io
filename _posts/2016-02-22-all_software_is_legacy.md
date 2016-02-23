@@ -76,8 +76,8 @@ The above chunk of code is one of the smaller functions from CGI.pm and demonstr
 This is used to prevent cross-site scripting attacks. The thing is, minus all the boilerplate and with a clean interface, to do this requires just three lines of code[^10]:
 
 	1	sub _maybe_escapeHTML {
-	3		return escapeHTML( @_ ) if $_[0]->{'escape'};
-	4	}
+	2		return shift->{escape} ? escapeHTML( @_ ) : @_;
+	3	}
 
 So what's all the other code doing? Let's break it down.
 
