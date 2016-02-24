@@ -7,13 +7,13 @@ tags:
     - cgi
 ---
 
-In what may be judged in years to come as a moment of madness, I have volunteered to be the primary maintainer of the Perl CGI module (CGI.pm). For the none technical readers of this post: CGI.pm is a few thousand lines of code that in the mid to late ninetees, and even some years later, was helping many websites function. Ever visited a website and seen 'cgi-bin' in the URL? Yep, that was *probably* running Perl scripts and those were almost certainly using CGI.pm
+In what may be judged in years to come as a moment of madness, I have volunteered to be the primary maintainer of the Perl CGI module (CGI.pm). For the none technical readers of this post: CGI.pm is a few thousand lines of code that in the mid to late nineties, and even some years later, was helping many websites function. Ever visited a website and seen 'cgi-bin' in the URL? Yep, that was *probably* running Perl scripts and those were almost certainly using CGI.pm
 
 I actually volunteered to be the primary maintainer back in April 2014. The reason I've taken so long to write this post is that I've been busy, er, maintaining the module. I've fixed the bulk of existing issues[^1], written and given a talk on the plan for the module[^2], released an extra module to point people at better resources[^3], and occasionally been responding to questions about the module[^4], oh and of course the usual reason that it takes posts several months to get out of my drafts folder.
 
 Despite having used the module frequently over the years, and even volunteering to be the primary maintainer, I do not like it. It was an important and useful module early on, but it has no place in a modern [perl] web stack and hasn't deserved a place in at least a decade. This is not a criticism of the original author(s) or the original implementation, it's simply down to the fact that the web development field has progressed and lessons have been learnt.
 
-An important point to make is the difference between CGI and CGI.pm. CGI is the Common Gateway Interface protocol, or specification if you like, whereas CGI.pm is an implementation of that spcification. CGI is still a reasonable protocol for doing web programming in some cases, wheras CGI.pm is not.[^5]
+An important point to make is the difference between CGI and CGI.pm. CGI is the Common Gateway Interface protocol, or specification if you like, whereas CGI.pm is an implementation of that specification. CGI is still a reasonable protocol for doing web programming in some cases, whereas CGI.pm is not.[^5]
 
 CGI.pm wasn't the first implementation, but it was widely adopted after being included with the Perl core:
 
@@ -34,7 +34,7 @@ Take a look at that RFC and see if anything stands out. I'll give you a clue: it
 
 The first official draft of the CGI specification was not released until [May 1998](https://tools.ietf.org/html/draft-coar-cgi-v11-00). By then there were several large sites already running on Perl and even with CGI.pm: eBay, IMDb, cPanel, Slashdot, Craigslist, Ticketmaster, Booking.com, several payment processors, and many many others.[^7]
 
-Before that the CGI protocal was very much a work in progress, its history looking something like this[^8]:
+Before that the CGI protocol was very much a work in progress, its history looking something like this[^8]:
 
 * 02 Jun '93: Dave Raggett updates his HTML+ DTD to include support for "INPUT and SELECT form interaction elements"[0]
 
@@ -52,7 +52,7 @@ As the RFC drafts were expanded more sites and software were released that used 
 
 **So What Happened?**
 
-Time passed, more and more features were added, scope crept.[^9] After a few years it turned out that some of the implementation decisions didn't fit well into modern requirements, and others could lead to nasty vulnerabilities if not used with care. Some workarounds could be made: fastcgi for persistence, mod\_perl for speed and pluging into apache, but they required adapting of scripts using CGI.pm. Often they came with a cost - mod\_perl's propensity to segfault being one of them.
+Time passed, more and more features were added, scope crept.[^9] After a few years it turned out that some of the implementation decisions didn't fit well into modern requirements, and others could lead to nasty vulnerabilities if not used with care. Some workarounds could be made: fastcgi for persistence, mod\_perl for speed and plugging into apache, but they required adapting of scripts using CGI.pm. Often they came with a cost - mod\_perl's propensity to segfault being one of them.
 
 This wasn't unusual, the web was immature back then and development around it reflected that. There's also the consideration that you can't predict the future and it's incredibly difficult to make accurate estimates in software development. Sometimes you just stick a TODO or FIXME in the code and worry about it later - Y2K anyone? IPv4?
 
@@ -128,9 +128,9 @@ The browser you're reading this in has a history going back twenty years. The hi
 
 The correct way to build that legacy is to correctly abstract the internals away and provide clean and sane interfaces. The cleaner the interface and the looser the coupling the easier it is to unplug the upstream code from it and into something else. But paradoxically the cleaner and saner your interface the more likely it is to succeed and thus more likely to become constrained by its users, to solidify.
 
-Legacy pervades the software we use from the trivial small utilites included with the operating systems (coreutils) to the encyption mechanisms that we rely on (openssh) and the software that synchronizes your clocks (ntp[^21]). Apple still ship their OS with an insane filesystem because there is so much legacy software that will break should they fix it.[^22]
+Legacy pervades the software we use from the trivial small utilities included with the operating systems (coreutils) to the encryption mechanisms that we rely on (openssh) and the software that synchronizes your clocks (ntp[^21]). Apple still ship their OS with an insane filesystem because there is so much legacy software that will break should they fix it.[^22]
 
-Every line of new code you write will inevitably become legacy software. The language or idiom you choose will fall out of favour[^23]; the framework will be superseded; the libraries it uses will need updating due to bugs and vulnerabilities or some dependencies will be abandonded. Just look at github, the most popular hosting site for open source software projects, quickly becoming the world's largest software graveyard. Even the shoulders you stand upon are sagging.[^24]
+Every line of new code you write will inevitably become legacy software. The language or idiom you choose will fall out of favour[^23]; the framework will be superseded; the libraries it uses will need updating due to bugs and vulnerabilities or some dependencies will be abandoned. Just look at github, the most popular hosting site for open source software projects, quickly becoming the world's largest software graveyard. Even the shoulders you stand upon are sagging.[^24]
 
 Lest you think you're immune to this ask yourself if you've ever written code for more than one company? Ever provided a patch or bug fix for a library? Replied to a question on stackoverflow? You, me, every software developer out there, right now, is creating legacy software.
 
