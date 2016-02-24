@@ -7,7 +7,7 @@ tags:
     - cgi
 ---
 
-In what may be judged in years to come as a moment of madness, I have volunteered to be the primary maintainer of the Perl CGI module (CGI.pm). For the none technical readers of this post: CGI.pm is a few thousand lines of code that in the mid to late nineties, and even some years later, was helping many websites function. Ever visited a website and seen 'cgi-bin' in the URL? Yep, that was *probably* running Perl scripts and those were almost certainly using CGI.pm
+In what may be judged in years to come as a moment of madness, I have volunteered to be the primary maintainer of the Perl CGI module (CGI.pm). For the non-technical readers of this post: CGI.pm is a few thousand lines of code that in the mid to late nineties, and even some years later, was helping many websites function. Ever visited a website and seen 'cgi-bin' in the URL? Yep, that was *probably* running Perl scripts and those were almost certainly using CGI.pm
 
 I actually volunteered to be the primary maintainer back in April 2014. The reason I've taken so long to write this post is that I've been busy, er, maintaining the module. I've fixed the bulk of existing issues[^1], written and given a talk on the plan for the module[^2], released an extra module to point people at better resources[^3], and occasionally been responding to questions about the module[^4], oh and of course the usual reason that it takes posts several months to get out of my drafts folder.
 
@@ -102,7 +102,7 @@ This is one small function in, what was, an eight thousand line module. CGI.pm c
 
 **Standing Still, Moving Forwards**
 
-When I tell none-perl developers, or sometimes ex-perl developers, that I primarily code in Perl they often express shock that Perl is still used. They don't know the modern ecosystem, or that Perl is still actively used in many places for new development[^11], or the dozens of Perl conferences attended by thousands of developers every year, or that Perl is maintained with yearly major releases. Most strange is that they seem to think that the hundreds of millions of lines of Perl code just evaporated the moment they switched to their new language of choice.
+When I tell non-perl developers, or sometimes ex-perl developers, that I primarily code in Perl they often express shock that Perl is still used. They don't know the modern ecosystem, or that Perl is still actively used in many places for new development[^11], or the dozens of Perl conferences attended by thousands of developers every year, or that Perl is maintained with yearly major releases. Most strange is that they seem to think that the hundreds of millions of lines of Perl code just evaporated the moment they switched to their new language of choice.
 
 Many software systems are like snakes shedding their skin, going through constant maintenance and every few years having their components replaced completely. However their core functionality remains the same during this process, and to many users they can appear to go for years without any change at all. Sometimes the snake is replaced with a newer, more shiny snake, but users aren't compelled to use it or don't even know if it's the right snake.[^12]
 
