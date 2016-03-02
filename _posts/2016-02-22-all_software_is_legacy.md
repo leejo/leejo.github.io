@@ -38,6 +38,8 @@ Before that the CGI protocol was very much a work in progress, its history looki
 
 * 02 Jun '93: Dave Raggett updates his HTML+ DTD to include support for "INPUT and SELECT form interaction elements"[0]
 
+* 19 Jul '93: Nathan Torkington adds an executable shell script ability to the standard CERN (2.06) daemon[8]
+
 * 05 Sep '93: Marc Andreessen says NCSA Mosaic 2.0 will submit form parameters as: "name=value&name=value&name=value"[1]
 
 * 13 Sep '93: Rob McCool announces NCSA httpd 1.0a1[2], which supports "server scripts, which are executable programs which the server runs to generate documents on the fly. They are easy to write and can be written in your favorite language, whether it be C, PERL, or even the Bourne shell" [3]
@@ -164,7 +166,7 @@ Where we are today is pretty interesting and lots of fun, tomorrow will be more 
 
 [^7]: [https://en.wikipedia.org/wiki/Perl#Applications](https://en.wikipedia.org/wiki/Perl#Applications) [https://news.ycombinator.com/item?id=10590612](https://news.ycombinator.com/item?id=10590612)
 
-[^8]: Thanks to Pete for putting this together, the links to various sources: [0](http://1997.webhistory.org/www.lists/www-talk.1993q2/0430.html) [1](http://1997.webhistory.org/www.lists/www-talk.1993q3/0812.html) [2](https://groups.google.com/forum/#!topic/comp.infosystems.www/qd9cQTogWig) [3](http://www6.uniovi.es/~antonio/ncsa_httpd/info/Scripts.html) [4](https://github.com/TooDumbForAName/ncsa-httpd/blob/1.1/cgi-bin/test-cgi) [5](http://1997.webhistory.org/www.lists/www-talk.1993q4/0485.html) [6](https://groups.google.com/forum/#!topic/comp.infosystems.www/g4UxMaqf0Mg) [7](http://1997.webhistory.org/www.lists/www-talk.1993q4/0518.html)
+[^8]: Thanks to Pete for putting this together, the links to various sources: [0](http://1997.webhistory.org/www.lists/www-talk.1993q2/0430.html) [1](http://1997.webhistory.org/www.lists/www-talk.1993q3/0812.html) [2](https://groups.google.com/forum/#!topic/comp.infosystems.www/qd9cQTogWig) [3](http://www6.uniovi.es/~antonio/ncsa_httpd/info/Scripts.html) [4](https://github.com/TooDumbForAName/ncsa-httpd/blob/1.1/cgi-bin/test-cgi) [5](http://1997.webhistory.org/www.lists/www-talk.1993q4/0485.html) [6](https://groups.google.com/forum/#!topic/comp.infosystems.www/g4UxMaqf0Mg) [7](http://1997.webhistory.org/www.lists/www-talk.1993q4/0518.html) [8](http://1997.webhistory.org/www.lists/www-talk.1993q3/0197.html)
 
 [^9]: [Scope creep](https://en.wikipedia.org/wiki/Scope_creep)
 
