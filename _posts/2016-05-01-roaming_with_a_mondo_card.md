@@ -1,5 +1,5 @@
 ---
-title: Roaming With A Mondo Card
+title: Roaming with a Mondo card
 layout: blog
 tags:
     - software
