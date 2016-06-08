@@ -25,7 +25,7 @@ In the end I had to use my card to pay for the hotel, grab something to eat at t
     NON-STERLING TRANSACTIO     0.02
     NON-STERLING TRANSACTIO     4.09
 
-That's a total of £14.17 collected by my card issuer for doing nothing. Real FA fees[^3], collected before they even charge me interest for using the credit card. Now, I could have exchanged some currency for Bahraini Dinar before I went but I would have been fleeced on the exchange rate and had to pay a commission fee - ***if*** I could find a bureau de change that had the currency. What's more, I'd probably have ended up with some foreign currency left over when I got back, another cost.
+That's a total of £14.17 collected by my card issuer for doing nothing. Fees collected before they charge me interest for using the credit card. Now, I could have exchanged some currency for Bahraini Dinar before I went but I would have been fleeced on the exchange rate and had to pay a commission fee - ***if*** I could find a bureau de change that had the currency. What's more, I'd probably have ended up with some foreign currency left over when I got back, another cost.
 
 When I moved abroad I decided to keep my UK accounts open, they're useful to have in one case (a UK credit card) and essential in the other (NI contributions from my current account). As I still use the credit card I've ended up paying approximately £400 on non-sterling + cash fees over the past three years. Most are non-sterling transaction fees, they're typically small charges, but they add up.
 
@@ -60,7 +60,7 @@ The Mondo API allows me to access my data through a JSON API. I can push items t
 
 **Out With The Old**
 
-Of course Mondo still has some work to do. It doesn't offer the same products as traditional banks, but that's not the goal here. The Mondo card is a pre-paid debit card the doesn't offer the same protections as a credit card. However, they are headed in the right direction, getting rid of all those FA fees that for too long have been a barrier to actually achieving a cashless society. At the very least they're offering a product that makes others look extremely unattractive.
+Of course Mondo still has some work to do. It doesn't offer the same products as traditional banks, but that's not the goal here. The Mondo card is a pre-paid debit card the doesn't offer the same protections as a credit card. However, they are headed in the right direction, getting rid of all those fees that for too long have been a barrier to actually achieving a cashless society. At the very least they're offering a product that makes others look extremely unattractive.
 
 My UK card will remain with me while Mondo is still in its early stages, but it will see very little use from now on. In with the new.
 
@@ -69,5 +69,3 @@ My UK card will remain with me while Mondo is still in its early stages, but it 
 [^1]: [Swiss Credit Card Fees](https://www.google.ch/search?q=swiss+credit+card+fees&oq=swiss+credit+card+fees&ie=UTF-8#q=swiss+credit+card+fees+site:www.englishforum.ch)
 
 [^2]: [Why are foreign card payments such a mess?](https://getmondo.co.uk/blog/2015/12/15/why-are-foreign-card-payments-such-a-mess/)
-
-[^3]: I'll let you guess what that stands for.
