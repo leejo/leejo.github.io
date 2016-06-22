@@ -5,7 +5,6 @@ tags:
     - software
     - perl
     - banking
-    - photography
 ---
 
 I spent last weekend alternately editing photographs from a short trip to Bahrain and working on a Perl library for the Mondo API and the thread that connects these two things is something I've mentioned before: credit/debit card fees.
