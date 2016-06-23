@@ -1,6 +1,6 @@
 name: "Lee A Johnson"
 description: "Photo Projects and Blog of Lee A Johnson."
 url: ""
-future: false
+future: true
 markdown: kramdown
 permalink: pretty
