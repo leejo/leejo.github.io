@@ -154,7 +154,7 @@ Where we are today is pretty interesting and lots of fun, tomorrow will be more 
 
 [^1]: "Fixed" meaning either [resolved](https://rt.cpan.org/Public/Dist/Display.html?Status=Resolved;Name=CGI) or [rejected](https://rt.cpan.org/Public/Dist/Display.html?Status=Rejected;Name=CGI)
 
-[^2]: The first five minutes [here](https://www.youtube.com/watch?v=BBYag43ojjM) and slides viewable [here]({{ site.url }}/past_present_future_cgi/)
+[^2]: The first five minutes [here](https://www.youtube.com/watch?v=BBYag43ojjM) and slides viewable [here]({{ site.baseurl }}/past_present_future_cgi/)
 
 [^3]: [CGI::Alternatives](https://metacpan.org/pod/CGI::Alternatives)
 
@@ -206,4 +206,4 @@ Where we are today is pretty interesting and lots of fun, tomorrow will be more 
 
 [^27]: [http://glasnt.com/blog/2015/05/30/legacy-devops.html](http://glasnt.com/blog/2015/05/30/legacy-devops.html)
 
-[^28]: [{{ site.url}}/2013/11/03/please_use_verbose_commits/]({{ site.url }}/2013/11/03/please_use_verbose_commits/)
+[^28]: [{{ site.baseurl}}/2013/11/03/please_use_verbose_commits/]({{ site.url }}/2013/11/03/please_use_verbose_commits/)

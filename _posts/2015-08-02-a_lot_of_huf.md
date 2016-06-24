@@ -11,7 +11,7 @@ I took a brief trip to Hungary to visit the final European Grand Prix. As in: th
 
 Whilst Hungary is a [member state of the European Union](https://en.wikipedia.org/wiki/Member_state_of_the_European_Union) it is not a part of the [Eurozone](https://en.wikipedia.org/wiki/Eurozone). Essentially they kept their own currency, the Hungarian Forint (HUF). If you read through the history of Hungary's currency you have to wonder if their non-membership of the Eurozone is due to having faffed about with their currency many times over the years already[^3] and not wanting to do so again[^4].
 
-<img src="{{ site.url }}/images/2015/08/huf.jpg" width="500" />
+<img src="{{ site.baseurl }}/images/2015/08/huf.jpg" width="500" />
 
 Anyway it seems that most places in Hungary, or in this case Budapest, accept Euros so you *can* get away without withdrawing HUF. However i wanted to do so for two reasons. One being that the exchange rate isn't exactly favourable if you do use Euros within the country, the second being that i wanted to get hold of a currency that had caused me all sorts of problems several years back. Pure curiosity.
 
@@ -21,7 +21,7 @@ A few weeks later we received a bug report from some rather irate Hungarian card
 
 The same principle follows for HUF because, [as per the ISO spec](https://en.wikipedia.org/wiki/ISO_4217#Active_codes) it has a minor exponent of 2... Or does it? Well yes it does, officially, but unofficially it doesn't because it's not used in real transactions anymore. The minor units in question, the fillér, have not been in circulation since 1999[^7]. In fact, inflation pushed the value of the Forint so high (or is that low?) that the lowest denomination coin is now 5 Ft. Curiously petrol stations will still use the defunct minor units in displays[^8]:
 
-<img src="{{ site.url }}/images/2015/08/filler.jpg" width="500" />
+<img src="{{ site.baseurl }}/images/2015/08/filler.jpg" width="500" />
 
 <div class="nav_text">The lesser seen fillér, accurate but at the same time defunct</div>
 

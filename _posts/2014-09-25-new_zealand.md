@@ -13,8 +13,8 @@ However *snow*boarders? That's an entirely different level requiring mountains w
 
 So when i decided to spend seven days in New Zealand i received some odd remarks. Well OK, i *live* in a ski resort and, yes, NZ is known to be hit and miss when it comes to the quality of the snow; and *yes*, it's a long way to go, almost the furthest possible place from where i live[^2]. So why? Because snowboarding! Oh, and i had some vacation time to use up.
 
-<a href="{{ site.url }}/images/2014/09/01_cardrona_backcountry.jpg">
-	<img src="{{ site.url }}/images/2014/09/01_cardrona_backcountry_1200.jpg" width="600" alt="Backcountry as seen from the edge of Cardrona" />
+<a href="{{ site.baseurl }}/images/2014/09/01_cardrona_backcountry.jpg">
+	<img src="{{ site.baseurl }}/images/2014/09/01_cardrona_backcountry_1200.jpg" width="600" alt="Backcountry as seen from the edge of Cardrona" />
 </a>
 
 <div class="nav_text">Back country as seen from the edge of Cardrona (click any image to go big)</div>
@@ -27,8 +27,8 @@ The second half of the journey is a little hazy as i seemed to enter some sort o
 
 I was joined by three other snowboarders on arrival: Joel from Australia, Mandy also from Australia, and Alex from Hong Kong. Our guide was Ruth, a local with over 15 years experience on the slopes. We were to be stationed in Wanaka, approximately one hours drive from Queenstown. My accommodation was a small backpacker's hostel next to the lake: cheap, cheerful, and full of friendly travellers. I was feeling pretty good despite close to forty hours of travel and managed to stay lucid until 8pm, and which point i decided to call it a day (or at least, call it the equivalent of three days).
 
-<a href="{{ site.url }}/images/2014/09/02_en_route_to_ohau.jpg">
-	<img src="{{ site.url }}/images/2014/09/02_en_route_to_ohau_1200.jpg" width="600" alt="En route to Ohau" />
+<a href="{{ site.baseurl }}/images/2014/09/02_en_route_to_ohau.jpg">
+	<img src="{{ site.baseurl }}/images/2014/09/02_en_route_to_ohau_1200.jpg" width="600" alt="En route to Ohau" />
 </a>
 
 <div class="nav_text">En route to Ohau</div>
@@ -41,8 +41,8 @@ Cardrona also had a huge terrain park, and this probably goes some way to explai
 
 One surprise was the cost, now this is to be expected given it was high season and of course a ski resort; but without exaggeration i can say that the lift passes, which were included as part of the trip so not an issue, were more expensive than back in Switzerland. A day's pass at Cardrona cost NZ$99, that's about 75 CHF. Food, however, was cheaper so it evened out.
 
-<a href="{{ site.url }}/images/2014/09/03_ohau_ridge.jpg">
-	<img src="{{ site.url }}/images/2014/09/03_ohau_ridge_1200.jpg" width="600" alt="The Ridge at Ohau (1900m)" />
+<a href="{{ site.baseurl }}/images/2014/09/03_ohau_ridge.jpg">
+	<img src="{{ site.baseurl }}/images/2014/09/03_ohau_ridge_1200.jpg" width="600" alt="The Ridge at Ohau (1900m)" />
 </a>
 
 <div class="nav_text">The Ridge at Ohau (1900m)</div>
@@ -55,8 +55,8 @@ On the third day we were given the option to go Heliskiing. This sounded interes
 
 I reasoned i would have plenty of powder days in the future back home, i had already enjoyed a few in the last season. So i spent the third day again at Cardrona spending time riding switch then exploring some of the black runs and off piste areas with Ruth, which turned out to be a lot of fun. I also took a look at some of the chutes but quickly "noped" out of there due to the amount of rocks and their proximity being somewhat closer than i was comfortable with.
 
-<a href="{{ site.url }}/images/2014/09/04_treble_cone_morning.jpg">
-	<img src="{{ site.url }}/images/2014/09/04_treble_cone_morning_1200.jpg" width="600" alt="Morning at Treble Cone" />
+<a href="{{ site.baseurl }}/images/2014/09/04_treble_cone_morning.jpg">
+	<img src="{{ site.baseurl }}/images/2014/09/04_treble_cone_morning_1200.jpg" width="600" alt="Morning at Treble Cone" />
 </a>
 
 <div class="nav_text">Morning procession at Treble Cone</div>
@@ -69,8 +69,8 @@ Ohau had the feel of a club field, although is a commercial resort; the majority
 
 The next day was the final day of riding and for that we visited Treble Cone, which is the largest ski area in New Zealand's South island. The resort was a good demonstration that piste grading is only applicable to a resort and not transferable - Treble Cone's blue runs were equivalent to Cardrona's black runs and the resort was all around much steeper with narrower pistes in the Home Basin section. The resort was very popular with skiers so i was back to being in the minority. Although i enjoyed Treble Cone i wouldn't recommend it for snowboarding, however i can imagine the Saddle Basin part of the resort is amazing on a powder day.
 
-<a href="{{ site.url }}/images/2014/09/05_treble_cone.jpg">
-	<img src="{{ site.url }}/images/2014/09/05_treble_cone_1200.jpg" width="600" alt="Lake Wanaka as seen from Treble Cone" />
+<a href="{{ site.baseurl }}/images/2014/09/05_treble_cone.jpg">
+	<img src="{{ site.baseurl }}/images/2014/09/05_treble_cone_1200.jpg" width="600" alt="Lake Wanaka as seen from Treble Cone" />
 </a>
 
 <div class="nav_text">Lake Wanaka as seen from Treble Cone</div>

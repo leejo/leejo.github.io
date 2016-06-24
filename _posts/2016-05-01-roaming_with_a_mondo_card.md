@@ -38,7 +38,7 @@ It's not only the fees either, most banking systems are antiquated. Paying by ca
 
 With the arrival of my [Mondo](https://getmondo.co.uk/) card all the above issues are no more. Take a look at the following image from the app:
 
-<img border="1px" src="{{ site.url }}/images/2016/05/mondo_02.png" />
+<img border="1px" src="{{ site.baseurl }}/images/2016/05/mondo_02.png" />
 
 That's the withdrawal of cash from an ATM in Villars-sur-Ollon. The transaction appeared on the app feed within moments, giving me the approximate exchange rate. There was no 'cash fee' and the exchange rate matched the one published on xe.com within a few pence. The exchange rate was corrected to the one used in the issuing country a few days later, again accurate to the actual rate within a few pence.
 
@@ -53,7 +53,7 @@ So a transaction that would have cost me in the region of £3.50 on my old card 
 
 And it gets better:
 
-<img border="1px" src="{{ site.url }}/images/2016/05/mondo_01.png" />
+<img border="1px" src="{{ site.baseurl }}/images/2016/05/mondo_01.png" />
 
 The Mondo API allows me to access my data through a JSON API. I can push items to my feed, download transactional data, and all sorts of other ideas and use cases [can be built on top of the API](https://getmondo.co.uk/blog/2016/04/21/mondohack-iv/). There are already many [apps, libraries, and integrations available](https://github.com/rdingwall/awesome-mondo). The Perl client library I've [released](https://metacpan.org/release/Business-Mondo) is just one of them.
 

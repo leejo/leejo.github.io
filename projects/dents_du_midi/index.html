@@ -9,7 +9,7 @@ layout: main_content
 A random image everytime you refresh the page. These images were shot between January and December 2014. Click <a href="/2014/12/15/dents_du_midi/">here</a> for more information.
 </p>
 
-<script src="{{ site.url }}/js/jquery-1.11.1.min.js"></script>
+<script src="{{ site.baseurl }}/js/jquery-1.11.1.min.js"></script>
 <script type="text/javascript">
 
 	$(document).ready(function() {
@@ -28,7 +28,7 @@ A random image everytime you refresh the page. These images were shot between Ja
 				var src = $(this).attr('src');
 				src = src.replace(
 					"",
-					"{{ site.url }}/projects/dents_du_midi/" + i + ".jpg"
+					"{{ site.baseurl }}/projects/dents_du_midi/" + i + ".jpg"
 				);
 				$(this).attr('src', src);
 			});
@@ -37,7 +37,7 @@ A random image everytime you refresh the page. These images were shot between Ja
 				var href = $(this).attr('href');
 				href = href.replace(
 					"",
-					"{{ site.url }}/projects/dents_du_midi/" + i + ".jpg"
+					"{{ site.baseurl }}/projects/dents_du_midi/" + i + ".jpg"
 				);
 				$(this).attr('href', href);
 			});

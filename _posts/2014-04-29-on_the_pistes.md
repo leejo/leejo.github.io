@@ -18,7 +18,7 @@ The pistes actually opened early this year. We had low temperatures and enough s
 
 So has it been a bad winter? We can probably answer that by looking at historical snowfall data as that is the key indicator of the quality of a ski resort. What follows is a heat map of the last twenty years' snow reports from Villars[^1]:
 
-<img src="{{ site.url }}/images/2014/04/snowfall.png" height="212" width="532" alt="snowfall" />
+<img src="{{ site.baseurl }}/images/2014/04/snowfall.png" height="212" width="532" alt="snowfall" />
 
 Week numbers across the top, main figures are mean snow depth on the pistes in centimetres. Background colours are the darker the deeper. The MEAN row at the top covers only the past ten years. Usual caveats apply - there are gaps in the data between 1996 and 2000. I'm sure some of the reports are incorrect[^2]. I tried to come up with a heat map that eases comparison without getting too in detail on exact figures. A lot of reports i've seen on the web have comprehensive data but don't show that in a way that makes at a glance comparison across years easy.
 
@@ -28,7 +28,7 @@ Snowfall data is probably the first thing we look for when evaluating a resort, 
 
 Can we establish if temperatures were higher than usual? Yes[^3]:
 
-<img src="{{ site.url }}/images/2014/04/temperatures.jpg" height="304" width="500" alt="temperatures" />
+<img src="{{ site.baseurl }}/images/2014/04/temperatures.jpg" height="304" width="500" alt="temperatures" />
 
 Ah, now this is more interesting. The graph shows the last ten years average monthly temperatures in ºC with the months December through to April on the x axis. This last season and the mean are the stronger lines (mean is the black line). Although the season started out with average temperatures, January and February were more than twice the average and the season ended up having the highest temperatures for the past decade.
 
@@ -40,7 +40,7 @@ A late start is not what a resort wants because, for those that are low to mid-l
 
 There are strong incentives for resort to stay open for the entire season, irrespective of the level of snowfall. Villars features snow generating machines on many pistes, and even those resorts with guaranteed snowfall will use artificial snow to ensure pistes are in excellent condition for when the real snow arrives and to prolong the life of of runs[^4]. Investment in infrastructure also needs to be recouped, larger resorts put significant amounts of money into improvements[^5].
 
-<img src="{{ site.url }}/images/2014/04/rattracker.jpg" height="403" width="500" alt="snow management" />
+<img src="{{ site.baseurl }}/images/2014/04/rattracker.jpg" height="403" width="500" alt="snow management" />
 
 It's not just lifts - the above picture shows a piste-basher ("rat-tracker") moving snow from off-piste areas ready for replenishing on-piste runs. This image was taken after a couple of weeks with no snowfall and high temperatures. Piste and snow management is a season-round requirement, with several of these machines in operation everyday after the lifts close.
 
@@ -56,7 +56,7 @@ It's common knowledge that skiing and snowboarding are expensive sports, but for
 
 I already arrived with boots and clothing, which would have cost me in the region of 600 CHF, but i needed a board, bindings, and goggles. I ended up spending 800 CHF for those, but they should last me a few years at least. They do need looking after, i.e. servicing, which again means more costs.
 
-<img src="{{ site.url }}/images/2014/04/petitcham.jpg" height="400" width="400" alt="Bretaye as seen from the top of the Petit Chamossaire" />
+<img src="{{ site.baseurl }}/images/2014/04/petitcham.jpg" height="400" width="400" alt="Bretaye as seen from the top of the Petit Chamossaire" />
 
 Being resident in Villars means i am eligible for a discounted season lift pass[^8]. This is the price everyone has to pay to use the pistes, except those under nine or over seventy nine years of age. A season lift pass cost me 590 CHF, which is about half the price of standard season lift pass and equivalent to ten single day passes or fifteen days bought in advance.
 
@@ -70,7 +70,7 @@ I was always approaching this from the perspective of a skateboarder, where you 
 
 I wondered how it was possible to become comfortable with snowboarding only having a dozen or so hours of active riding per year. Partly i was remembering the learning curve with skateboarding, where if you skate for an hour or two a few times a week you might be able to pop a little ollie after a few months or a kickflip after six or cruise a bowl effortlessly after maybe three or four *years*. Then within a decade you will start to feel comfortable, like it's become a part of you.
 
-<img src="{{ site.url }}/images/2014/04/oddoneout.jpg" height="400" width="400" alt="odd one out?" />
+<img src="{{ site.baseurl }}/images/2014/04/oddoneout.jpg" height="400" width="400" alt="odd one out?" />
 
 But then two years ago it was suggested to me again that i should try snowboarding, and this time i decided i would. I had hit a plateau with skateboarding, something that happens from time to time, and a couple of bad winters meant i had been spending three or four months when i didn't get more than an hour a week on average to roll around. I picked up snowboarding easily, almost certainly due to the skateboarding as there are enough similarities in the basic movements. In fact, i actually spent the entirety of my introduction day riding switch stance. Only when it came to linking toeside turns did i decide to change to regular stance, which is my skateboarding stance[^10]. After that it was relatively easy.
 

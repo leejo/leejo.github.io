@@ -6,13 +6,13 @@ tags:
     - photography
 ---
 
-I've just uploaded a little project that i've been shooting this year: <a href="{{ site.url }}/projects/dents_du_midi/">Dents du Midi</a>. The Dents du Midi dominate the Val-d'Illiez and the Rhône Valley, if you've ever been in the western part of Switzerland you've almost certainly seen them[^1].
+I've just uploaded a little project that i've been shooting this year: <a href="{{ site.baseurl }}/projects/dents_du_midi/">Dents du Midi</a>. The Dents du Midi dominate the Val-d'Illiez and the Rhône Valley, if you've ever been in the western part of Switzerland you've almost certainly seen them[^1].
 
 The project is a time-lapse, shot from January to December 2014. The project page aims to sort of recreate the way you see the mountain from here, in that every time you see it the view you get is unique. Well, maybe?
 
 Because the mountain is prominent it features heavily in images and photographs from the region. I thought it would be interesting to photograph the mountain range over a period of several months to show how it changes. The images are straight out of the camera (resized of course), so the colours you see are as true to reality as the camera records. The images below are *not* true to reality, since they're instagram shots :)
 
-<img src="{{ site.url }}/images/2014/12/1.jpg" height="500" width="500" alt="Dents du Midi" />
+<img src="{{ site.baseurl }}/images/2014/12/1.jpg" height="500" width="500" alt="Dents du Midi" />
 
 Anyway, it was interesting to shoot this from a technical point of view as i started without aiming to do anything with the photos. After a couple of months i realised i *should* do something with them but hadn't been careful enough to make sure they were all shot at the same focal length, from the same position, and the same angle. I thought this would take days to fix at the end of the project, but it took only 15 minutes using Photoshop's auto align function. Amazing.
 
@@ -22,7 +22,7 @@ Actually this little project also served as a distraction from others. I'm about
 
 So having a little project like this is quite nice as it allows me to get something out in the meantime and not be tempted to release images from longer term projects that need time to develop. All this digital malarkey[^2] is great, but it breeds a gottatakethispictureanduploaditrightthismoment approach[^3]. Oh, and on that point here's another Dents du Midi instagram image from about three hours ago:
 
-<img src="{{ site.url }}/images/2014/12/2.jpg" height="500" width="500" alt="Dents du Midi" />
+<img src="{{ site.baseurl }}/images/2014/12/2.jpg" height="500" width="500" alt="Dents du Midi" />
 
 <hr />
 

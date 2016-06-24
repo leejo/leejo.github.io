@@ -27,7 +27,7 @@ So what occurred to me was how i see skate photos has been irrevocably shaped by
 
 What happens at that point is that you begin to see not the things that make the pictures great, but the things that make the pictures different. You recognise a photographer's tells, like the absolutely perfect verticals in every Sam Ashley photo; or the post processing or lighting style that give away the photographer. You know the spots (locations), or don't as the case may be; you wonder why you didn't think to shoot the spot from that particular angle, or are amazed that a skater could come up with a particular line/trick leading to a whole new way to shoot the spot. You know that a shot from a location in London is more likely to be by one particular photographer and a shot from Scotland is more likely to be by another particular photographer. The same applies for specific skaters and skate companies. You can name the tricks without even having to think twice, because you know the specific timing for each trick, and you can tell from the way a skater's body is positioned whether the trick is switch/fakie/nollie/and so on.
 
-<img src="{{ site.url }}/images/2014/07/1.jpg" height="500" width="500" alt="Last skate photo published sometime in 2012. Rules? What rules?" />
+<img src="{{ site.baseurl }}/images/2014/07/1.jpg" height="500" width="500" alt="Last skate photo published sometime in 2012. Rules? What rules?" />
 
 <div class="nav_text">Last skate photo published sometime in 2012. Rules? What rules?</div>
 
@@ -47,7 +47,7 @@ The third epoch is the arrival of medium format sometime in the early 2000s. [At
 
 Skateboard photographers, with few exceptions, love their fisheye lenses; and the Hasselblad fisheye lens was a stunning piece of equipment. Corner to corner tack sharpness, with 1/500 flash sync, with a Medium Format sized negative allowing you to use depth of field with that fisheye. And you could check your lighting with a polaroid back! And the square format, it just suited skateboard photography and magazine layout so well. Soon it was everywhere, every skateboard photographer was shooting with a Medium Format camera and sticking $10,000s worth of camera gear in front of flying pieces of metal and wood. Crazy.
 
-<img src="{{ site.url }}/images/2014/07/2.jpg" height="500" width="500" alt="The fifth fisheye i owned, and the only one to escape unscathed" />
+<img src="{{ site.baseurl }}/images/2014/07/2.jpg" height="500" width="500" alt="The fifth fisheye i owned, and the only one to escape unscathed" />
 
 <div class="nav_text">The fifth fisheye i owned, and the only one to escape unscathed.</div>
 
@@ -64,10 +64,10 @@ And it wasn't just sensor technology that improved, digital cameras ushered in w
 Here are a few crops from some well known skate photos. For 1 point name the skater. For 2 points name the trick. For 5 name the photographer. And for ultra skate-photo-geek points (10 points) name the year.
 
 <div class="crops">
-	<img src="{{ site.url }}/images/2014/07/c1.jpg" height="100" width="100" />
-	<img src="{{ site.url }}/images/2014/07/c2.jpg" height="100" width="100" />
-	<img src="{{ site.url }}/images/2014/07/c3.jpg" height="100" width="100" />
-	<img src="{{ site.url }}/images/2014/07/c4.jpg" height="100" width="100" />
+	<img src="{{ site.baseurl }}/images/2014/07/c1.jpg" height="100" width="100" />
+	<img src="{{ site.baseurl }}/images/2014/07/c2.jpg" height="100" width="100" />
+	<img src="{{ site.baseurl }}/images/2014/07/c3.jpg" height="100" width="100" />
+	<img src="{{ site.baseurl }}/images/2014/07/c4.jpg" height="100" width="100" />
 </div>
 
 Whilst this seems like a contrived game there is a point to it - history. It applies not just to the well known photos but the day to day editorial and advert content that run in skateboard magazines. If you're shooting a photo with the aim to have it run, i.e. get paid, you better know the history of photographic coverage of the spot, lest you shoot the same trick from the same angle. That's not going to be a usable photo, at least not in the country were the original photo was used. Maybe as time passes and memories fade you can get away with this.
@@ -76,7 +76,7 @@ There is a limited pool of spots within skateboarding, old ones are "skate-stopp
 
 This is one of the reasons why, in general, photos shot at skateparks are rarely used for editorial content in skateboard magazines. Of course if the subject is a vert skater or the article is related to a skatepark (comp/jam/opening) then park photos will be used. However for the most part skatepark photos are a big no-no. Why? Spots! I've always been of the opinion that skateboard photography isn't primarily about the tricks, it's about the spots. The most commonly asked question about a photo is not "who is that?" or "what trick is that?", but rather "*where* is that?".
 
-<img src="{{ site.url }}/images/2014/07/3.jpg" height="248" width="500" alt="Spot hunting in 2008" />
+<img src="{{ site.baseurl }}/images/2014/07/3.jpg" height="248" width="500" alt="Spot hunting in 2008" />
 
 <div class="nav_text">Spot hunting in 2008, one i never got around to using.</div>
 
@@ -90,7 +90,7 @@ Just to emphasise the importance of spots in skateboard photography there are sp
 
 The other extreme is the fisheye at the bottom of the stairs shot, which removes all aesthetically pleasing aspects and just goes straight for the easiest way to exaggerate the size of the spot, and by association the difficulty of the trick - a fisheye lens can make a flight of stairs look like a mountain and remove all background distractions in the process. There is an argument here that surely these are examples of skateboard photography being about the tricks, and not the spots, but if that were the case then we would not be using a device that tells half truths about the trick and boosts the potential of the spot.
 
-<img src="{{ site.url }}/images/2014/07/4.jpg" height="500" width="375" alt="Spot!" />
+<img src="{{ site.baseurl }}/images/2014/07/4.jpg" height="500" width="375" alt="Spot!" />
 
 <div class="nav_text">Spot! From <a href="http://43magazine.com/">43 Mag</a> #4.</div>
 
@@ -106,7 +106,7 @@ Second rule: make it clear which direction the skater is moving through the fram
 
 Third rule: get the timing right for the trick. This is hard to describe. Just about every trick in skateboarding has a fingerprint when it comes to identifying it from a single image. This ignores the more technical tricks and combinations that get shot as sequences (that we have already dismissed as not real skateboard photography). There can be some ambiguity, and complexity, in which case you time the photo to look "correct" and not seem to contradict the caption. This rule is so critical that a frame with better timing where the trick wasn't landed is often favoured over the "make" frame.
 
-<img src="{{ site.url }}/images/2014/07/5.jpg" height="331" width="500" alt="So much right" />
+<img src="{{ site.baseurl }}/images/2014/07/5.jpg" height="331" width="500" alt="So much right" />
 
 <div class="nav_text">All six rules present and correct. Plus patterns, colours, frames, and <a href="https://www.flickr.com/photos/alex44papke/8704091396/">more</a></div>
 
@@ -126,7 +126,7 @@ Using rectilinear wide angle lenses, in other words wide angle lenses that aren'
 
 Next up "guy in the sky" type shots, demonstrated by anyone that doesn't have the first clue about skateboarding or skateboard photography. These type of shots can often be found in articles that are clearly shot by newspaper/magazine/stock photographers sent to cover some local skateboarding event and who look to get an "extreme" or "gnarly" photo. These break the first two rules, and usually the third.
 
-<img src="{{ site.url }}/images/2014/07/6.jpg" height="512" width="512" alt="So much wrong" />
+<img src="{{ site.baseurl }}/images/2014/07/6.jpg" height="512" width="512" alt="So much wrong" />
 
 <div class="nav_text">No no no no no no no. No. <a href="https://www.flickr.com/photos/kirkols/4526834839/in/set-72157623875671714">NO!</a> So much wrongness.</div>
 
@@ -152,7 +152,7 @@ Something has made it easier to get better, quicker, and this applies to many th
 
 In 2003 <a href="http://www.bastianehl.com/">Bastian Ehl</a> launched skateboardphotography.com. Within three years it was dead. However in its short life it was responsible for a huge spread of knowledge, brutally honest critique by the user base, and frequent submissions or feedback by photographers who would go on to be staff at major skateboarding magazines.
 
-<img src="{{ site.url }}/images/2014/07/7.jpg" height="312" width="500" alt="SBP.com" />
+<img src="{{ site.baseurl }}/images/2014/07/7.jpg" height="312" width="500" alt="SBP.com" />
 
 <div class="nav_text">SBP.com. Still waiting on the <a href="http://www.skateboardphotography.com/">relaunch</a> Bastian!</div>
 
@@ -172,7 +172,7 @@ But demand for high quality stills skateboard photography persists, and this is 
 
 And we know there is demand for *printed* stills skateboard photography because the last few years have seen a rise in the number of high quality independent publications. 43, Grey, North, Dank, and more. What's remarkable about these is that they are a niche within a niche within a niche. 43: based in New York, printed using sustainable methods, heavy emphasis on film photography. Grey: covering London, but with occasional special editions that go outside the capital, initially a small run free publication but now has a large enough coverage/readership to include a significant number of adverts within its pages (and still be free).
 
-<img src="{{ site.url }}/images/2014/07/8.jpg" height="375" width="500" alt="Grey" />
+<img src="{{ site.baseurl }}/images/2014/07/8.jpg" height="375" width="500" alt="Grey" />
 
 <div class="nav_text"><a href="http://www.greyskatemag.com/">Grey</a> Skateboard Mag. Vol 02 Issue 04.</div>
 
