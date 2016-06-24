@@ -1,7 +1,6 @@
 name: "Lee A Johnson"
 description: "Photo Projects and Blog of Lee A Johnson."
 url: ""
-url_live: "https://leejo.github.io"
 future: true
 markdown: kramdown
 permalink: pretty
