@@ -38,21 +38,9 @@ I went back to Huddersfield for the weekend and not only managed to skate three 
 
 <br />
 
-<img src="{{ site.baseurl }}/images/2015/05/25/DSCF3652.jpg" height="500" alt="" />
-
-<div class="nav_text">Up...</div>
-
-<br />
-
 <img src="{{ site.baseurl }}/images/2015/05/25/DSCF3654.jpg" width="500" alt="" />
 
-<div class="nav_text">... and along (ride on 50-50 pop out)</div>
-
-<br />
-
-<img src="{{ site.baseurl }}/images/2015/05/25/DSCF3662.jpg" height="500" alt="" />
-
-<div class="nav_text">50-50</div>
+<div class="nav_text">ride on 50-50 pop out</div>
 
 <br />
 
