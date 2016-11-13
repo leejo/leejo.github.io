@@ -12,7 +12,7 @@ tags:
 Warning! This post is semi-serious and full of photos, but i feel that best demonstrates the impact of Apple's recent decision to move to USB-C and *only* USB-C on their new MacBook Pro models. Note that the equipment shown here range in age from one to ten years. Onwards...
 </div>
 
-My MacBook Pro (13-inch Retina Early 2013) is in need of replacement, at least for my needs. The battery is near dead, so the laptop won't actually function as a portable device. I could replace, it at a cost of 220 CHF, however the other constraints of the machine are being hit: the 8GB of RAM is no longer sufficient for photoshop work[^1], the dual core processor would be better as a faster and/or quad core version[^2], and the 1TB SSD is down to its last 150GB.
+My MacBook Pro (13-inch Retina Early 2013) is in need of replacement, at least for my use cases. The battery is near dead, so the laptop won't actually function as a portable device. I could replace, it at a cost of 220 CHF, however the other constraints of the machine are being hit: the 8GB of RAM is no longer sufficient for photoshop work[^1], the dual core processor would be better as a faster and/or quad core version[^2], and the 1TB SSD is down to its last 150GB.
 
 When i bought this machine, in July 2013, i lucked out in that it was the last version with some user-serviceable parts. It wasn't long before i had replaced the 256GB SSD with a 1TB. Unfortunately i cannot upgrade the RAM. At this point it is clear that if you want a MacBook Pro you get the absolute maxed out version you can, because upgrading any internal components? Not going to happen[^3].
 
@@ -149,6 +149,10 @@ Mine is pretty tame, look at Will's:
 <div class="nav_text">Eight years ago, imagine what this looks like now</div>
 
 So the reality is if you want to connect one device to another you need the correct cable, and most of the time that cable isn't a USB-A to USB-A. So you go rummaging around in your drawer of cables to find the correct one, or find the correct combination of two. USB-C is just another set of cables in that drawer, another chapter in the connectivity mess, another great standard that will probably be deprecated sometime in the next decade.
+
+<div class="footnote">
+Update: The <a href="https://news.ycombinator.com/item?id=12940470">HN thread</a> has some useful pointers, one being that the USB-C to Thunderbolt does not support Display Port so the inevitable is that i will need a dock. I can get a Toslink to Mini Toslink so it's looking like the <a href="https://eshop.macsales.com/preorder/owc-thunderbolt-3-dock/">OWC Thunderbolt 3 Dock</a> is the solution, at approx 300 CHF, but that still doesn't have an HDMI port. There is also <a href="https://www.bourgedesign.com/">this</a> that removes the need for any adapters, at a much cheaper price of approx 100 CHF, but that still leaves me missing optical out.
+</div>
 
 <hr />
 
