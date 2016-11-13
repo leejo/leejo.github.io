@@ -12,7 +12,7 @@ tags:
 Warning! This post is semi-serious and full of photos, but i feel that best demonstrates the impact of Apple's recent decision to move to USB-C and *only* USB-C on their new MacBook Pro models. Note that the equipment shown here range in age from one to ten years. Onwards...
 </div>
 
-My MacBook Pro (13-inch Retina Early 2013) is in need of replacement, at least for my use cases. The battery is near dead, so the laptop won't actually function as a portable device. I could replace, it at a cost of 220 CHF, however the other constraints of the machine are being hit: the 8GB of RAM is no longer sufficient for photoshop work[^1], the dual core processor would be better as a faster and/or quad core version[^2], and the 1TB SSD is down to its last 150GB.
+My MacBook Pro (13-inch Retina Early 2013) is in need of replacement, at least for my use cases. The battery is near dead, so the laptop won't actually function as a portable device. I could replace it, at a cost of 220 CHF, however the other constraints of the machine are being hit: the 8GB of RAM is no longer sufficient for photoshop work[^1], the dual core processor would be better as a faster and/or quad core version[^2], and the 1TB SSD is down to its last 150GB.
 
 When i bought this machine, in July 2013, i lucked out in that it was the last version with some user-serviceable parts. It wasn't long before i had replaced the 256GB SSD with a 1TB. Unfortunately i cannot upgrade the RAM. At this point it is clear that if you want a MacBook Pro you get the absolute maxed out version you can, because upgrading any internal components? Not going to happen[^3].
 
