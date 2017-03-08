@@ -23,7 +23,7 @@ In an effort to use the camera more outside of project work I have set myself a 
 
 I thought it might be interesting to go over some of the things the camera has taught me. Medium format is about to become much more known, if not popular, with the release of the Hasselblad and Fuji mirrorless medium format bodies this year. While they do differ in form and function to the classic 6x6 SLR bodies there is still much that can be learned from them. So here are ten things I've learned from ten years shooting with a Hasselblad.
 
-<img height="625px" src="{{ site.baseurl }}/images/2017/03/02.jpg" />
+<img width="625px" src="{{ site.baseurl }}/images/2017/03/02.jpg" />
 <div class="nav_text">Ginza, 2016.</div>
 
 **You need to change some habits**
