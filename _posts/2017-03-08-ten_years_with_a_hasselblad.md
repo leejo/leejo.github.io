@@ -46,7 +46,7 @@ The second is to tighten your composition. If you bring the camera up to your ey
 
 Related to tightening the composition is not pointing the camera up at close distance. If you are shooting a photo of someone, specifically a half body type portrait, and using the camera at waist level you will be pointing the camera up. This leads to an outcome that looks like you or your subject are falling over. Maybe this can be used for creative effect, but most of the time it looks bad. Bring the camera up to your eye and you prevent this.
 
-<img height="625px" src="{{ site.baseurl }}/images/2017/03/03.jpg" />
+<img width="625px" src="{{ site.baseurl }}/images/2017/03/03.jpg" />
 <div class="nav_text">Cambridge, 2012</div>
 
 **Focus discipline**
