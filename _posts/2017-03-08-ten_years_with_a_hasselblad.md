@@ -87,7 +87,7 @@ Admittedly this is the nature of the 200 series models which are very complex, o
 
 **A backup camera is a necessity for any important work**
 
-Given what I wrote above this should be clear. I purchased the 202FA primarily as a backup camera when I started to travel further afield for the long term projects I am working on. Up until now it hasn't needed to be used as a backup, so has been used instead as a secondary camera with a different lens on it. There has been moments when the 203FE wasn't functioning but I managed to get it working again by dry firing the camera enough times.
+Given what I wrote above this should be clear. I purchased the 202FA primarily as a backup camera when I started to travel further afield for the long term projects I am working on. Up until now it hasn't needed to be used as a backup, so has been used instead as a secondary camera with a different lens on it. There have been moments when the 203FE wasn't functioning but I managed to get it working again by dry firing the camera enough times.
 
 This is not cheap considering the investment in a single medium format body, but then consider travelling to the other side of the world only to have your camera fail. Not cheap either. Perhaps rent a backup body if you are going on a trip, or even pick up a cheap beat-up second hand body. This is trivial with the older film cameras, you can pick one up for a couple of hundred Euros. The digital versions? Not going to be so easy.
 
