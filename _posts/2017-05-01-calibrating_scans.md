@@ -1,5 +1,5 @@
 ---
-title: Calibrating Your v700 Workflow With A Flextight (D)
+title: Calibrating Your v700 Workflow With A Flextight
 layout: blog
 tags:
     - photography
