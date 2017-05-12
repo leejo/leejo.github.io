@@ -43,7 +43,7 @@ Again, here's a low resolution version of the scan (same resize settings as with
 The technical details:
 
  * Epson v700
- * Scanned with VueScan 6.5.27
+ * Scanned with <a href="https://www.hamrick.com/vuescan/epson_perfection_v700.html">VueScan</a> 9.5.27
  * 3200dpi
  * 7069x7132px (50 Megapixels / Print size of 56x56cm at 320ppi)
  * Better scanning holders + anti-Newton glass.
