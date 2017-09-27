@@ -46,7 +46,7 @@ The bottom three are placeholders for whatever other services will pop up before
 
 The problem with all of the above is that they require me to either have them open in a tab, installed on my phone, or visit every now and then to know when i receive a direct message. I don't want more tabs, i certainly don't want to install the likes of Facebook and such on my phone, and visiting the sites every now and then is problematic.
 
-The problem with the social networks is their default state is a shouting match. You only need to link to a few dozen users before your feed become a constant stream of inanity. They're designed this way, of course, to keep you coming back and to keep you on the site. That's captive users, ad impressions, revenue. You might visit to see if you have any messages, and then you get sucked into the feed.
+The problem with the social networks is their default state is a shouting match. You only need to link to a few dozen users before your feed becomes a constant stream of inanity. They're designed this way, of course, to keep you coming back and to keep you on the site. That's captive users, ad impressions, revenue. You might visit to see if you have any messages, and then you get sucked into the feed.
 
 So why "Social Media Zero"? The same reason as Inbox Zero. The default state of the social networks is to shout at you, so fix that to prevent spending anymore time than necessary there. Unfollow everyone on Facebook. Mute everyone on twitter. Remove feed elements with uBlock. Don't send a message over social media when an email could be sent instead. It's the approach i am now taking. If something is important enough it will reach me by another means.
 
