@@ -85,7 +85,7 @@ So far i have submit the work to twenty awards/competitions/calls. Given the cos
 
 About half of the calls i submit to do not provide any acknowledgement, you see the results so can assume you were not selected, although those tend to be the ones that will have (tens of) thousands of entries so this is understandable.
 
-I attended my first portfolio review with the work at the Musée de Elysée and there was enough interest for them to invite me back to give a presentation on the work (and others) in November. I have also contacted the local gallery who are looking for more artists, and there was also some interest in the work. As i suspected, viewing the work in print is far more impacting than on screen. I suppose this could be said of just about any work however. Time will tell, it is still early days.
+I attended my first portfolio review with the work at the Musée de l'Elysée and there was enough interest for them to invite me back to give a presentation on the work (and others) in November. I have also contacted the local gallery who are looking for more artists, and there was also some interest in the work. As i suspected, viewing the work in print is far more impacting than on screen. I suppose this could be said of just about any work however. Time will tell, it is still early days.
 
 **2017 (c)**
 
