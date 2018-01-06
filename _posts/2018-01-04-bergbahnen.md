@@ -89,7 +89,7 @@ I attended my first portfolio review with the work at the Musée de l'Elysée an
 
 **2017 (c)**
 
-I received a response from CENTER after submitting the work and have been accepted on the Review 100, which is an annual three day portfolio review taking place in Santa Fe, New Mexico. This takes place at the end of October, which is god timing as i was planning to be there due to another project i am working on.
+I received a response from CENTER after submitting the work and have been accepted on the Review 100, which is an annual three day portfolio review taking place in Santa Fe, New Mexico. This takes place at the end of October, which is good timing as i was planning to be there due to another project i am working on.
 
 I am not sure how much benefit the review will be, but research leads me to believe it is worth the trip. We will see how useful it is, as the work will be shown to several reviewers as well as a public viewing event. This combined with another (much more local) portfolio review event is going to be the last of my efforts to push the work out.
 
