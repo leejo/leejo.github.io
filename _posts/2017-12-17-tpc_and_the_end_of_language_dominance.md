@@ -50,7 +50,7 @@ Another interesting talk at the conference with no direct connection to Perl (th
 
 Unfortunately the talk contained a small comment, completely out of context of the subject and probably an ad-lib, that was a dismissal of an entire language community. I'm highlighting this comment here but could pick others from the conference, several from this year even. The Perl Conference is a polyglot conference, but there are still attempts at humour from some speakers taking potshots are other languages. When the humour misses the mark, or the arguments are poor, it grates. Please don't do this, it won’t encourage people from other communities to come and speak to ours.
 
-On the second day of The Perl Conference a DeLorean DMC-12 was parked outside the entrance to the conference venue. A car that had taken several years to get from the prototype to production stage and had to be respecified due to overly ambitious design ideas[^5]. A piece of technology from the 1980s that everybody of a certain generation knew, but nobody appears to use anymore. As if to extend the symbolism further this particular DeLorean had a dashboard system with large parts writen in Perl.
+On the second day of The Perl Conference a DeLorean DMC-12 was parked outside the entrance to the conference venue. A car that had taken several years to get from the prototype to production stage and had to be respecified due to overly ambitious design ideas[^5]. A piece of technology from the 1980s that everybody of a certain generation knew, but nobody appears to use anymore. As if to extend the symbolism further this particular DeLorean had a dashboard system with large parts written in Perl.
 
 **Amsterdam**
 
