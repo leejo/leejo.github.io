@@ -2,15 +2,5 @@
 title: Lee A Johnson
 layout: main_content
 ---
-<div class="content_title"><center>Latest Posts</center></div>
-{% for post in site.posts limit:5 %}
-<br />
-	<strong>{{ post.title }}</strong><br />
-	<div class="content_date">
-		{{ post.date | date: "%B %d, %Y" }}
-	</div>
-	{{ post.excerpt }}
-	<a href="{{ post.url }}">Read More...</a><br />
-	<br />
-{% endfor %}
-<a href="{{ site.baseurl }}/blog/">Blog Archive</a>
+
+{% include photo_projects.html %}
