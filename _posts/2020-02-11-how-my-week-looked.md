@@ -248,9 +248,9 @@ Commit summary:
 
 [^7]: gdb is a debugger that we can examine said core dump with.
 
-[^8]: A bug that's behaviour changes when you attempt to debug it.
+[^8]: A bug that shows a behaviour change, including fixing itself, when you attempt to debug it.
 
-[^9]: A **C**ontinuous **I**ntegration is the thing that runs all (or most) of the tests against your changes whenever you push them out to the remote repository. It means you can find things that you might have broken, even though you assumed that your changes wouldn't.
+[^9]: A **C**ontinuous **I**ntegration server is the thing that runs all (or most) of the tests against your changes whenever you push them out to the remote repository. It means you can find things that you might have broken, even though you assumed that your changes wouldn't. This all assumes your test coverage is good enough.
 
 [^10]: Essentially this went from being a "strongly typed" attribute on an object to a dynamically typed variable (something you can do in Perl).
 
@@ -266,7 +266,7 @@ Commit summary:
 
 [^16]: I forked the library a few years ago as it had fallen out of maintenance (such is the nature of Perl support these days). They started updating it again recently.
 
-[^17]: I have a shortcut `git timesheet` that will show me my last 24hr (or 4 day, or one week) of commits. Handy for the daily standup.
+[^17]: I have a shortcut `git timesheet` that will show me my last 24hr (or four days, or one week) of commits. Handy for the daily standup.
 
 [^18]: DNS is the thing the resolves a hostname (www.google.com) to an IP address so we can actually communicate with the server. When DNS fails, or gives wrong/outdated information then we end up trying to speak to the wrong thing (or nothing).
 
@@ -298,7 +298,7 @@ Commit summary:
 
 [^32]: Basically replaying their changes but without the "keep it up to date" bits, since the new branching point would mean it is already up to date.
 
-[^33]: For some reason I though `git rebase` took more flags than it actually does.
+[^33]: For some reason I thought `git rebase` took more flags than it actually does.
 
 [^34]: Apple's black boxes tend to work better than other black boxes.
 
@@ -324,7 +324,7 @@ Commit summary:
 
 [^45]: Automated batch processes that take a while to complete, a lot of which run overnight given the nature of the payment industry.
 
-[^46]: "e-mail all the things" is a massive anti-pattern. "e-mail on or two things" is manageable.
+[^46]: "e-mail all the things" is a massive anti-pattern. "e-mail one or two things" is manageable.
 
 [^47]: "Off site" as in "out of the AWS infrastructure"
 
