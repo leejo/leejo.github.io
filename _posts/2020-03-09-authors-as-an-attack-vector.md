@@ -6,6 +6,7 @@ tags:
     - technology
 ---
 
+<p></p>
 <div class="footnote"><b>TL;DR</b>: If you have an AUTHORS file, or single public code repository, that contains both your work and personal emails, an attacker could figure out a colleague's work email, register a malicious typo'd version of your personal email, and then attempt phishing on your colleague via that malicious email.</div>
 
 Ever received a spam/phishing email that contained enough parts that make it seem a bit *too* much of a coincidence? This was one of those cases.
