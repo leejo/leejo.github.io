@@ -44,7 +44,7 @@ Lee Jo <somelongname@someprovider.com>
 ...
 ```
 
-As far as I can tell these repositories are the *only* place where both my work email and this particular personal email can be linked. The *only* other way you could link them is a lot of manual searching and putting together various pieces, And seems like too much effort unless this was a very targeted attack. That doesn't seem likely.
+As far as I can tell these repositories are the *only* place where both my work email and this particular personal email can be linked. The *only* other way you could link them is a lot of manual searching and putting together various pieces, which seems like too much effort unless this was a very targeted attack. That doesn't seem likely.
 
 **What To Do Next?**
 
