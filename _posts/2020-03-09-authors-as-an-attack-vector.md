@@ -4,7 +4,7 @@ layout: blog
 tags:
     - technicalities
     - technology
-    - version_control
+    - versioncontrol
     - github
 ---
 
