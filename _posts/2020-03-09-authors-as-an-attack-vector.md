@@ -13,7 +13,7 @@ Ever received a spam/phishing email that contained enough parts that make it see
 
 On Sun 8 Mar 2020 07:58:00 -0700 (PDT) my boss received an email that appeared to come from me. Except *clearly* it didn't come from me as the content of the email didn't conform to my usual way of writing an email. The email content was minimal, an HTML body with his name and then a URL shortened link. As my boss is smart enough and experienced enough to know that the email looked like a phishing attempt he didn't click the link.
 
-When I examined the link with `curl` it didn't appear to be malicious - the URL shortener had some tracking but was a simple rediect to a `.ru` URL. The URL that was redirected to contained a simple HTML document of nonsense text with no other assets, no javascript, no other redirects, nothing that looked like spam or anything to attack the user.
+When I examined the link with `curl` it didn't appear to be malicious - the URL shortener had some tracking but was a simple redirect to a `.ru` URL. The URL that was redirected to contained a simple HTML document of nonsense text with no other assets, no javascript, no other redirects, nothing that looked like spam or anything to attack the user.
 
 The kicker was the details of the from and reply-to fields in the phishing email. They looked like my personal email addresses, so it seems the point of the email was not to get my boss to click on the link but instead to reply to the email. So what's going on here?
 
