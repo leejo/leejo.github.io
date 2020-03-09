@@ -29,7 +29,7 @@ From: "Lee" <somelongname@someotherprovider.com.br>
 
 None of this can be trusted as a spammer/attacker can put whatever they want into some of these fields. So they could put my personal details in the `From` and `Reply-To` fields. They didn't quite do that - they used a different TLD[^2] for the `From` address and they added an extra `v` character on the end of my personal email address in the `Reply-To` field.
 
-I guess they were trying to get my boss to reply to this email and then the social engineering could really begin? The extra character was enough that this email address could be mistaken for my actual email address, making it appear to come from me. Had they used my work email it would have been much clearer that the address was wrong.
+I guess they were trying to get my boss to reply to this email and then the social engineering could really begin? The extra character was enough that this email address could be mistaken for my actual email address, making it appear to come from me. Had they used my work email it would have been much clearer that the address was wrong, and of course they couldn't register a variation on that theme anyway as *we* control who gets an email on our domain.
 
 The next question is where did the attacker get the information to be able to target my *boss* using details that could be mistaken as me? Not just obvious details, but details that were so old as to no longer be relevant - details from long before I started working at this company?
 
