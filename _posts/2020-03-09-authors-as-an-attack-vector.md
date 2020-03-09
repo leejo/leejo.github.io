@@ -1,11 +1,9 @@
 ---
-title: AUTHORS File As An Attack Vector (D)
+title: AUTHORS File As An Attack Vector
 layout: blog
 tags:
     - technicalities
     - technology
-    - versioncontrol
-    - github
 ---
 
 <div class="footnote"><b>TL;DR</b>: If you have an AUTHORS file, or single public code repository, that contains both your work and personal emails, an attacker could figure out a colleague's work email, register a malicious typo'd version of your personal email, and then attempt phishing on your colleague via that malicious email.</div>
