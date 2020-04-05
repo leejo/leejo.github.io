@@ -9,6 +9,10 @@
 			</div>
 			<div class="content_date">
 				<center>
+				{% assign current_year = site.time | date: '%Y' %}
+				{% assign post_year = page.date | date: '%Y' %}
+				{% assign post_age = current_year | minus: post_year %}
+
 				{{ page.date | date: "%B %d, %Y" }} (
 				{% for post in site.posts %}
 					{% if post.url == page.url %}
@@ -31,6 +35,14 @@
 					Next
 				{% endif %}
 			)
+
+			{% if post_age > 10 %}
+			<br /><font color="red">This post is over ten years old</font>
+			{% elsif post_age > 5 %}
+			<br /><font color="red">This post is over five years old</font>
+			{% elsif post_age > 2 %}
+			<br /><font color="red">This post is over two years old</font>
+			{% endif %}
 				</center>
 			</div>
 			{{ content }}
