@@ -27,7 +27,7 @@ Trying to collect photos of these things appears to be a pointless endeavour as 
 
 **Monopoly Is Designed To Suck**
 
-That's the entire point of the game, to demonstrate the inequality in land/property monopoly[^2]. It's about as enjoyable to play as a version of Snake and Ladders that has no snakes or ladders. It's purely luck based, another point of the mechanics, and is often played with "house rules" that drag the experience out over a number of hours rather than keeping it to less than twenty minutes of hate[^3].
+That's the entire point of the game, to demonstrate the inequality in land/property monopoly[^2]. It's about as enjoyable to play as a version of Snakes and Ladders that has no snakes or ladders. It's purely luck based, another point of the mechanics, and is often played with "house rules" that drag the experience out over a number of hours rather than keeping it to less than twenty minutes of hate[^3].
 
 You roll the dice, you move your piece, you buy (or someone else buys) the property you land on. Repeat until all players but one go bankrupt. There's literally no strategy in this game. None: `10 ROLL; 20 BUY OR PAY; 30 GOTO 10;`
 
@@ -42,7 +42,7 @@ Here's one from the tourist office in the village:
 
 Thankfully they didn't go as local as having a version for the village because that would be stupid. And look at the price: 69.- CHF. Board games are not cheap in Switzerland but you can buy games like Wingspan, Azul, Catan, Root, Ticket to Ride, etc, for 50.- CHF or so in most board games stores.
 
-What's interesting about nearly all of the variations I find is that clearly they are some sort of licensed / franchised version of the game as the style of the box, board, font, chap in the top hat, are all clearly the same as the original version we are all familiar with. So it's not like these are rip-offs - the owners of the various copyrights are clearly in on this.
+What's interesting about nearly all of the variations I find is that they must be some sort of licensed / franchised version of the game as the style of the box, board, font, chap in the top hat, are all clearly the same as the original version we are all familiar with. So it's not like these are rip-offs - the owners of the various copyrights are in on this.
 
 **So How Much Do These Things Actually Cost?**
 
