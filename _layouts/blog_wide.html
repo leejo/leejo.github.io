@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+	{% include header.html %}
+	<body>
+		{% include main_menu.html %}
+		<div class="wide_content">
+			<div class="content_title">
+				<center>{{ page.title }}</center>
+			</div>
+			<div class="content_date">
+				<center>
+				{% assign current_year = site.time | date: '%Y' %}
+				{% assign post_year = page.date | date: '%Y' %}
+				{% assign post_age = current_year | minus: post_year %}
+
+				{{ page.date | date: "%B %d, %Y" }} (
+				{% for post in site.posts %}
+					{% if post.url == page.url %}
+						{% assign prev_page = forloop.index %}
+						{% assign next_page = forloop.index | minus:2 %}
+					{% endif %}
+					{% if forloop.last %}
+						{% assign size = forloop.index %}
+					{% endif %}
+				{% endfor %}
+				{% if prev_page < size %}
+					<a href="{{ site.posts[prev_page].url }}">Prev</a>
+				{% else %}
+					Prev
+				{% endif %}
+				/
+				{% if next_page >= 0 %}
+					<a href="{{ site.posts[next_page].url }}">Next</a>
+				{% else %}
+					Next
+				{% endif %}
+			)
+
+			{% if post_age > 10 %}
+			<br /><font color="red">This post is over ten years old</font>
+			{% elsif post_age > 5 %}
+			<br /><font color="red">This post is over five years old</font>
+			{% elsif post_age > 2 %}
+			<br /><font color="red">This post is over two years old</font>
+			{% endif %}
+				</center>
+			</div>
+			{{ content }}
+			<div class="content_tags">
+				{% for tag in page.tags %}
+					<a href="/tags/{{ tag }}">{{ tag }}</a>{% if forloop.last %}{% else %}, {% endif %}
+				{% endfor %}
+			</div>
+		</div>
+	</body>
+</html>

@@ -85,6 +85,10 @@ pre {
 	font-size: 8pt;
 	text-align: center;
 }
+.img-centre {
+	text-align: center;
+	display: block;
+}
 .nav_text label {
 	cursor: pointer;
 }
