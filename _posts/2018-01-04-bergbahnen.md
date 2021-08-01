@@ -103,7 +103,7 @@ Coincidentally Santa Fe turns out to be a skiing town, and during the public pho
 
 **2018**
 
-I arrived back in Switzerland after a week long trip to the UK in November. I brought back a large format camera with me, and will be investigating another project that shows The Alps in another way. For now i have decided that i am done with this project. It can be seen <a href="/projects/bergbahnen/">here</a>.
+I arrived back in Switzerland after a week long trip to the UK in November. I brought back a large format camera with me, and will be investigating another project that shows The Alps in another way. For now i have decided that i am done with this project. It can be seen <a href="https://www.formulanon.com/switzerland-bergbahnen">here</a>.
 
 I will sell off the last thirty eight remaining rolls of LomoChrome Purple/Turquoise, although much of it is now out of date it has been stored in my freezer so should be good. It is arguable whether or not the film was ever any "good" in the first place, and the irony of it having taken up one quarter of my freezer space for the last few years is not lost on me.
 
