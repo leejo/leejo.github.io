@@ -187,7 +187,7 @@ So props to Jared for achieving that, all while creating content that is more in
 
 **So, Who is <i>My</i> Audience?**
 
-I think we've established that I don't know, other than the aforementioned reply of "the photobook crowd", which is pretty small. Clearly there's crossover with the audience that follows the subject, an audience of five hundred million fans, but probably not so much. If I can capture one percent of one percent one percent that's an entire print run for most small independent photobook publishers. Maybe.
+I think we've established that I don't know, other than the aforementioned reply of "the photobook crowd", which is pretty small. Clearly there's crossover with the audience that follows the subject, an audience of five hundred million fans, but probably not so much. If I can capture one percent of one percent of one percent that's an entire print run for most small independent photobook publishers. Maybe.
 
 So <a href="https://www.formulanon.com/" target=_blank>I've put a sample of the work out there</a>. Not just this project, but others I have been working on over the past decade as well. It's a small sample - in the case of the Formula 1 work just thirty images out of over two thousand, of which I would say one/two hundred are strong enough to be part of a final edit.
 
