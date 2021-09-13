@@ -2,7 +2,7 @@
 title: A Lot of HUF
 layout: blog
 tags:
-    - f1
+    - formulanon
     - travel
     - software
 ---

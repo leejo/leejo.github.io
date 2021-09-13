@@ -2,7 +2,7 @@
 title: Observations From Austria
 layout: blog
 tags:
-    - f1
+    - formulanon
     - travel
 ---
 Red Bull Ring Straße to be precise.
