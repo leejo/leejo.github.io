@@ -14,7 +14,7 @@ I grew up watching Formula 1 in the late eighties and early nineties, so I have 
 <div class="nav_text">Abu Dhabi, 2018</div>
 </div>
 
-I remember Adelaide and the moment when Schumacher cut off Hill, almost flipping his own car and causing enough damage to Hill's that neither could continue. Schumacher's first Forumla 1 championship was confirmed four minutes later when Hill climbed out of his car in the pits, the Williams mechanics realising they couldn't fix the broken suspension.
+I remember Adelaide and the moment when Schumacher cut off Hill, almost flipping his own car and causing enough damage to Hill's that neither could continue. Schumacher's first Formula 1 championship was confirmed four minutes later when Hill climbed out of his car in the pits, the Williams mechanics realising they couldn't fix the broken suspension.
 
 When the Schumacher documentary/film showed this moment I turned to my partner and said "that looks familiar, eh?", it being just a few days after the race at Monza where Hamilton and Verstappen had come together because two cars into a space slightly less than two cars doesn't work. One driver's car thrown into the air, damaging the other's car, both drivers out of the race.
 
