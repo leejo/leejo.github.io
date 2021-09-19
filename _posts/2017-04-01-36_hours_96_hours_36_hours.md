@@ -3,6 +3,7 @@ title: 36 Hours, 96 Hours, 36 Hours
 layout: blog
 tags:
     - photography
+    - formulanon
     - travel
 ---
 
