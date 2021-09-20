@@ -59,7 +59,7 @@ The most remarkable part of the documentary was from Silverstone in 1999 - 30 se
 
 I remember that race, and I remember the crowd cheering at Schumacher's crash. Pretty appalling. The documentary didn't tell us the outcome, a broken leg, and rather implied through editing that Schumacher was back racing again immediately. This was not the case - Schumacher missed a third of the season, returning for the last two races.
 
-Then the dominance of Ferrari from 2000-2004 was also glossed over - although we saw some footage of their testing extent (and by association: budget) we weren't told that Ferrari's dominance in that 5 years owed an awful lot to their exclusive (amongst the top teams) deal with Bridgestone. This advantage was cut when the FIA mandated that a set of tyres had to last an entire race distance for the 2005 season, and then Ferrari finished third with half the number of points of the Renault and Mercedes.
+Then the dominance of Ferrari from 2000-2004 was also glossed over - although we saw some footage of their testing extent (and by association: budget) we weren't told that Ferrari's dominance in that 5 years owed an awful lot to their exclusive (amongst the top teams) deal with Bridgestone. This advantage was cut when the FIA mandated that a set of tyres had to last an entire race distance for the 2005 season, and then Ferrari finished third with half the number of points of the Renault and Mercedes teams.
 
 The documentary kept away from any clam that Schumacher is statistically the greatest of all time. There was a hint in footage from the press conference when Schumacher reached Senna's win record, but little else. This was understandable - most of the meaningful records have now been equalled or taken by Hamilton[^3].
 
