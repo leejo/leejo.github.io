@@ -38,8 +38,8 @@ Much like Austria, Hungary features nice banked areas in its GA section. You can
 
 Some parts of the areas are also watched by security, who will not let you get close to the fence, and other parts appear to offer a good view but are obstructed by grandstands so don't really count. In reality the GA viewing area probably covers more like one third of the circuit.
 
-Hungary's GA price is around €80 for a Sunday only ticket. The circuit is easy to find with lots of free parking right next to it. I didn't see any park and ride facilities but the track is about 2km from a railway station so certainly within easy walking distance. There seemed to be hundreds and hundreds of taxis and hundreds more people queueing for them after the grand prix, so if you're staying in Budapest this might be the best option to get to the track and back again.
-:
+Hungary's GA price is around €80 for a Sunday only ticket. The circuit is easy to find with lots of free parking right next to it. I didn't see any park and ride facilities but the track is about 2km from a railway station so certainly within easy walking distance. There seemed to be hundreds of taxis and hundreds more people queueing for them after the grand prix, so if you're staying in Budapest this might be the best option to get to the track and back again.
+
 <div class="img-centre">
 <img width="1000px" src="{{ site.baseurl }}/images/2021/general_admission/08_austin_silverstone.jpg" />
 <div class="nav_text">Banked space and shade in Austin (left), and several bodies deep at Silverstone (right)</div>
