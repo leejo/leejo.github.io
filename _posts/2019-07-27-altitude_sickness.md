@@ -50,6 +50,24 @@ We know the batteries are a problem. Apple have even offered recall and replacem
 
 I got six years out of my previous Macbook Pro with zero problems. I got six years out of my white Macbook before that with zero problems. I was hoping this machine would last for the same amount of time, if not more, but I'm now doubting that will happen.
 
+**Update 18th June 2022**
+
+About two years after the battery replacement the machine started to show the "repair recommended" warning for the battery in the menu bar. This was without any obvious signs of a problem. A few months later those started to appear: minor swelling.
+
+After another 6 months the battery was running at about half capacity and the swelling got bad enough to affect the way the laptop would lay flat on a table and also some parts of the trackpad.
+
+I put up with this for a while before finally deciding to replace the battery myself. I figured since the machine was now out of warranty i didn't want to invest too much more into it. [Ifixit's replacement guide](https://www.ifixit.com/Guide/MacBook+Pro+15-Inch+Touch+Bar+2018+Battery+Replacement/122269) rates the procedure as "difficult", estimating around 3hours.
+
+It wasn't that difficult in reality, taking about 2hours and with good organisation of all the tiny screws to ensure putting it back together again was possible. The main problem was step 46, or at least the reverse of step 46.
+
+I simply could not reattach the antenna cables to the logic board. When I examined them under some magnification it was clear they were damaged. When I looked at the connectors on the logic board they were damaged too. So i had manged to kill them in the process of disconnecting (or trying to reconnect them).
+
+When I switched the laptop back on everything worked as it should, but now there was no Bluetooth or Wi-Fi. Soon I discovered I had also damaged the right speaker connection so now the laptop only has audio from the left.
+
+Well fuck. I had got four years out of this laptop then. I picked up base spec M1 Air as Swisscom were selling them with a 30% discount (probably in anticipation of the M2 release) and it absolutely trounces the 2018 Macbook Pro, in almost every aspect, even with 1/4 of the RAM.
+
+Apple's last generation Intel Macbook Pro line, with touchbar, are probably the worst ones they ever released. I'm not that bothered to see this one go.
+
 <hr />
 
 [^1]: Really bad: I have this device (keyboard) that I never look at, because that's how we learn to use it, but now I have to look at it because the Touch Bar is way above the home row and the actual functions change all the time depending on the context so I can't ever remember what is what or where. I'm still undecided on the Touch Bar - sometimes I think it's brilliant, other times I hate it.
