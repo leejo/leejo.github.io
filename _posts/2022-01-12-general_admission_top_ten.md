@@ -7,6 +7,11 @@ tags:
     - formulanon
 ---
 
+<div class="footnote">
+<br />
+Note - this post was written prior to the start of the 2022 F1 season, which had record attendances at most races after two years of low or zero crowds due to Covid restrictions. At some races, including the number 1 choice here, organisation was a shit show and facilites were not put in place to cope with demand. This was not limited to general admission tickets. I think my list still stands, but keep in mind that there are now other factors at play.
+</div>
+
 Ever wanted to attend a Formula 1 race but not break the bank? It's possible - most circuits on the calendar still offer "General Admission" (GA) tickets, giving you access to the edges where you can wander around and soak up the atmosphere. Some of these even give you up close access to the action, you just need to know which ones have that.
 
 I spent ten years, between 2009 and 2019, visiting most races on the calendar as part of a [photo project](https://www.formulanon.com/). The project was all shot from the GA areas of the circuits, so as part of that I thought it would be useful to others who might be considering visiting a race to list the top ten circuits on the current calendar for GA access. I've even included some offcuts from the project to give you more of an idea as to what you can expect.
