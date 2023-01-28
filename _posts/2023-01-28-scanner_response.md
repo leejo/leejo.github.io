@@ -65,7 +65,7 @@ For 35mm film they are not good enough for prints larger than, say, A4 in my opi
    * Epson claim "3200ppi" and "6400ppi" but this is not the case <a href="https://www.filmscanner.info/en/EpsonPerfectionV850Pro.html" target="_blank">as proven in tests</a>
  * The lens is fixed focus
     * You have to precisely calibrate the height of the film holders
-    * The granularity of hight adjustment on the included holders isn't fine enough
+    * The granularity of height adjustment on the included holders isn't fine enough
     * And you will still run into film flatness issues
   * The dynamic range isn't as high
     * I frequently find the shadows are lost in scans on my v700
