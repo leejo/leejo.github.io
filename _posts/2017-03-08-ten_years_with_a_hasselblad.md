@@ -4,6 +4,7 @@ layout: blog
 tags:
     - photography
     - technicalities
+    - hasselblad
 ---
 
 This year marks the point at which I have been using Hasselblad cameras for over a decade. My first was a 201F in 2007, before moving to a 203FE in 2011 and adding a 202FA in 2014. They're the classic 6x6 V series models, although have some additions on the more familiar 500 series that I will get into later. Over the years I've put several hundred rolls of film through the various cameras, not a great deal but enough to appreciate the idiosyncrasies inherent in shooting with medium format.
