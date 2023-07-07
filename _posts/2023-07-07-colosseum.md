@@ -48,7 +48,7 @@ I've got loads of these. I took them on our visit in July 2022 when we were in R
 
 Neither of us were really that interested in visiting the place, joining the procession of other tourists ambling through the site, but the potential of a shaded place in 40 C heat and the slim chance that there might be something there we hadn't seen a thousand times before online got the better of us.
 
-The carvings in the walls were, by far, the most interesting thing I saw in our visit. The rest of the place is like a lot of unkempt ancient monuments, slowly eroding and disappearing over the centuries or becoming Theseus' ship. Not *that* visually interesting to a photographer who is looking for something different.
+The carvings in the walls were, by far, the most interesting thing I saw during our visit. The rest of the place is like a lot of unkempt ancient monuments, slowly eroding and disappearing over the centuries or becoming Theseus' ship. Not *that* visually interesting to a photographer who is looking for something different.
 
 If you look long enough you'll see that some of these date to between 1939 and 1945... that's really interesting. If you go down that rabbit hole you'll discover that the Allies avoided bombing various sites in Rome, and you'll even find photos of US tanks driving past the Colosseum in 1944. Probably some of the above etchings are from those.
 
