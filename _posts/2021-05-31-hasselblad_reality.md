@@ -203,6 +203,18 @@ I will still happily burn through an entire roll of film, at least in smaller fo
 <div class="nav_text">The Matterhorn, Mar 2021</div>
 </div>
 
+**Update: 8th July 2023**
+
+Three years later I have just sold the last of my Hasselblad gear, including the 907x + CFV II 50c. I sold my 203FE back in January and today traded in my 202FA, 907x + CFV II 50c, and some various accessories for a Fuji GFX 100S + 50mm lens. The reasons are myriad, and can mostly be found in the writings above - compromises. I felt the back in combination with various other cameras wasn't very good and would rather just shoot film. Too many compromises.
+
+The 907x? After three years I think it's an absolute stinker of a camera, again for many of the reasons touched on above, but mostly because as a walk around camera it fails on every aspect. It's wanting to be like a classic V camera, but it's absolutely nothing like a classic V camera.
+
+My other reasons for moving away from Hasselblad are that I am over shooting medium format film, and am more working with large format and panoramic cameras these days. The Hasselblad cameras served me well for fifteen years, and multiple projects, but I am no longer interested in shooting them.
+
+The GFX will now serve as my walk around and commission camera, and potentially for other project work. It will also be my <a href="/2023/01/25/scanner/">scanning solution</a> for my existing film workflow due to its high resolution and pixel shift features (more on this soon). It is also (now) almost half the price of Hasselblad's equivalent. I've had a Fuji x100T for almost a decade, being one of my favourite cameras, and this feels like its very bigger brother.
+
+I'm over Hasselblad. It was nice while it lasted, but I don't think they've made a truly great camera in almost two decades. The last great one was, coincidentally, made by Fuji (the XPan).
+
 <hr />
 
 [^1]: Originally I had the word "traditional" in quotes here, trying to emphasise that i'm referring to what most people think of as landscape photography. The landscape has changed significantly since the time of Adams, et al, and the photography of the landscape should probably reflect that. Even Adams would occasionally include human elements in his photographs.
