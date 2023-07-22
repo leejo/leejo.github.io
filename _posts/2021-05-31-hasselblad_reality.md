@@ -203,6 +203,8 @@ I will still happily burn through an entire roll of film, at least in smaller fo
 <div class="nav_text">The Matterhorn, Mar 2021</div>
 </div>
 
+<div id="update"></div>
+
 **Update: 8th July 2023**
 
 Three years later I have just sold the last of my Hasselblad gear, including the 907x + CFV II 50c. I sold my 203FE back in January and today traded in my 202FA, 907x + CFV II 50c, and some various accessories for a Fuji GFX 100S + 50mm lens. The reasons are myriad, and can mostly be found in the writings above - compromises. I felt the back in combination with various other cameras wasn't very good and would rather just shoot film. Too many compromises.

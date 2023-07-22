@@ -5,3 +5,5 @@ _site
 .DS_Store
 vim.*
 *.swp
+.jekyll-metadata
+serve.sh
