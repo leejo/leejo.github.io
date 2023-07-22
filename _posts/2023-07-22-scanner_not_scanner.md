@@ -13,7 +13,7 @@ The (hopefully) last of my <a href="{{ site.base_url }}/2023/01/25/scanner/">att
 
 I finally bought a scanner. Mainly for my <a href="https://www.alpinepanoramics.com/" target="_blank">Alpine Panoramics project</a>. The key here is that the "scanner" I bought is actually a medium format digital camera, and to fund that I <a href="{{ site.baseurl }}/2021/05/31/hasselblad_reality/#update">traded in</a> some defunct medium format film equipment as well as the digital back that I was using with it.
 
-What makes this setup ideal for scanning film is the a) high resolution sensor (102MP) combined with b) a feature that allows combining multiple shots to boot resolution: "pixel shift", giving approx 400MP images.
+What makes this setup ideal for scanning film is the a) high resolution sensor (102MP) combined with b) a feature that allows combining multiple shots to boost resolution: "pixel shift", giving approx 400MP images.
 
 Here's the setup:
 
