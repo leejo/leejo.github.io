@@ -71,13 +71,13 @@ Much more of a contest. We can resolve the grain on both images to the point tha
 
 The main difference in the two is down to the dynamic range and contrast, and part of that will be explained by me probably having over exposed the "scans" from the GFX 100S a little. This is something I need to figure out as I use the setup more. I probably need to err on the side of under exposure and bring the shadows back in post to keep highlight detail.
 
-I also should note that there may have been an issue in the stitching. The software Fuji provide to combine the images will tell you if it thinks there was an issue when the images were shot - The slightest vibration will cause a problem:
+I also should note that there was an issue in the stitching, as evidenced by the odd blocks on the middle right of the image. The software Fuji provide to combine the images will tell you if it thinks there was an issue when the images were shot - The slightest vibration will cause a problem:
 
 <div class="img-centre">
 <img width="650px" src="{{ site.baseurl }}/images/2023/pixel_shift/stitch_defect.jpg" />
 </div>
 
-This may be why the GFX 100S scan has some jagged edges visible. I need to look at the copy stand setup and dampen any vibration sources. It's entirely possible the hum from an electric device nearby is responsible. It's *that* sensitive to movement.
+This may also be why the GFX 100S scan has some jagged edges visible. I need to look at the copy stand setup and dampen any vibration sources. It's entirely possible the hum from an electric device nearby is responsible. It's *that* sensitive to movement.
 
 It could also be the grain in the negatives confusing the software, but I did manage to scan the Toronto image above without any errors so I'm not convinced it's that.
 
