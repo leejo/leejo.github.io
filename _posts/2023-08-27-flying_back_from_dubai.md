@@ -3,7 +3,7 @@ title: Flying Back From Dubai
 layout: blog_wide
 tags:
     - photography
-    - history
+    - travel
 ---
 
 The final leg after two previous flights to return from New Zealand. We got some pretty special views, including one of Mont Blanc on the final descent into Geneva[^1].
