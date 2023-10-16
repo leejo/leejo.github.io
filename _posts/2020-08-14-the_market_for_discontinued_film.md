@@ -67,6 +67,10 @@ To refer to a blog post I have quoted on more than on occasion already on this b
 
 I'm down to my last 35 boxes of Fuji FP-100c, having sold 50 or so boxes and shot some of the film. I'm not a fan of it, as I've already explained, so I might sell it all and put the funds towards buying a digital back for my Hasselblad.
 
+**Update: October 2023**
+
+I ended up selling all of the film over a 6 month period for a total of 6,500.- CHF. A profit of 3,710.- CHF. I *did* end up buying a <a href="/2021/05/31/hasselblad_reality/">digital back for my Hasselblad</a> with those funds, which three years later I sold at a loss of 4,000.- CHF (reasons explained in the linked post). Easy come, easy go.
+
 <hr />
 
 [^1]: At the time or writing, and during that time it went up from 60.- CHF a box to about 90.- CHF a box.
