@@ -46,7 +46,7 @@ Income is made up of sales through a local gallery that I am part of, along with
 
  * 5,426.50 CHF - sales through the gallery
  * 1,365.- CHF - sales through web shop
- * = 6791.50 CHF total income
+ * = 6,791.50 CHF total income
 
 **Costs**
 
@@ -63,7 +63,7 @@ I include the loan repayment here as that is an ongoing cost, I don't include an
 
 **Total Profit (Loss)**
 
- * 6791.50 CHF total income
+ * 6,791.50 CHF total income
  * -10,694.80 CHF total costs
  * = **-3,903.30 CHF total loss**
 
