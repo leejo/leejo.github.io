@@ -8,6 +8,21 @@ tags:
     - mountains
 ---
 
+<h4>Contents</h4>
+<ol>
+    <li><a href="#intro">Introduction</a> (On why bother with all this?)</li>
+    <li><a href="#hasselblad">Hasselblad</a> (On nostalgia)</li>
+    <li><a href="#fast">Working Fast</a> (On the 907x + dedicated lenses)</li>
+    <li><a href="#slow">Working Slow</a> (On the CFV II 50C with older V cameras)</li>
+    <li><a href="#slower">Slower</a> (On the 907x with third party lenses)</li>
+    <li><a href="#slowest">Slowest</a> (On the CFV II 50C with a view camera)</li>
+    <li><a href="#conclusion">So What Next?</a> (On some sort of conclusion)</li>
+    <li><a href="#update">Update, July 2023</a> (On some sort of follow up)</li>
+    <li><a href="#update2">Update, January 2024</a> (On the CFV 100C)</li>
+</ol>
+
+<h4 id="intro">Introduction</h4>
+
 I shot the photo below during a visit to Zermatt in October 2020. It was my fifth time there, and the second time the weather had been clear enough to allow me to see the famous mountain. The first time I saw this scene, in May 2019, I knew immediately it was a photo. I mean, I knew immediately it was an interesting photo. I'm attracted to this kind of landscape photography, which I feel is a lot more grounded in the reality of the modern landscape than traditional landscape photography[^1].
 
 I only had my iPhone (5c) with me the first time, so I took <a href="https://www.instagram.com/p/ByIAMSyopKK/">a photo to make a note of the scene</a> assuming I would come back to it at some point with a camera designed for shooting scenes like this. That turned out to be 18 months later, resulting in the photo you see above, and I had a dedicated camera with me and not just my phone.
@@ -25,7 +40,7 @@ What I'm trying to express is that, like nearly all photography, most landscape 
 
 Whenever I'm out shooting landscapes I've always got a scene from Takahata Isao's "Only Yesterday" in my mind; in which Taeko, wanting to escape the city and get back to nature, comes to realise that the "natural" landscape is entirely man-made and man managed. It is no more natural than the city she was trying to escape, she had fallen for a type of learned idealism about the countryside. Call it nostalgia perhaps?
 
-**Hasselblad**
+<h4 id="hasselblad">Hasselblad</h4>
 
 Nostalgia can be a powerful thing, and of course extremely lucrative. Hasselblad's latest camera, the 907x + CFV II 50c, has nostalgia written all over it; from the limited edition <a href="https://www.hasselblad.com/v-system/907x-special-edition/">fifty years on the moon edition</a>, to the ad campaigns for the standard edition featuring <a href="https://www.youtube.com/watch?v=gNJPmk5wIHw">an old guy, his record player, vintage car</a>, and 501cm - a camera body that hasn't been manufactured in over 15 years.
 
@@ -42,7 +57,7 @@ Yes, I bought this camera. It's not a loaner. I intend to keep it. I wanted to u
 
 So yes. A seven thousand Swiss franc camera. What will its quirks and annoyances be? What is the reality of using this new old tech?
 
-**Working Fast**
+<h4 id="fast">Working Fast</h4>
 
 Fast here is relative. I mean, if you're used to shooting with a modern camera from just about any other manufacturer this camera is not fast. Not at all. It is slow to compose with due to its awkward ergonomics, slow to focus, slow to process, slow to navigate with its largely driven touch screen interface. But on the flip side, if you're used to shooting with a large format camera then all of those slow things suddenly seem light speed. So it's all relative.
 
@@ -77,7 +92,7 @@ In a mid to low light setting this combination is fine. Take it out into bright 
 
 The screen in bright daylight is the biggest flaw in this setup I find, and you'll be trying to emulate having a dark cloth so you can see the composition, focus, and exposure correctly in many situations. If Hasselblad eventually release an electronic viewfinder attachment for this camera I would deem it essential when using this combination.
 
-**Working Slow**
+<h4 id="slow">Working Slow</h4>
 
 Slow here is relative too, of course, and this is where the nostalgia starts to kick in. The CFV back is designed to allow it to attach it to almost any of Hasselblad's legacy V bodies. Some of these cameras are now seventy years old. The one here is a mere twenty years old, it comes from the period when Hasselblad were trying to add "modern" features to their V line:
 
@@ -86,7 +101,7 @@ Slow here is relative too, of course, and this is where the nostalgia starts to 
 <div class="nav_text">Leysin, Sep 2020</div>
 </div>
 
-Most of the time I don't bother with a tripod when using the above combination, and the body being a 200 series gives me built-in metering. This is about as close to point-and-shoot as you can get with a Hasselblad V series camera - assuming you want accurate exposures. All of the work you see on the front page of this site, with the exception of the panoramics, was shot with this camera - none of it studio based. And when you use this combination with the new digital back you quickly start to find the compromises.
+Most of the time I don't bother with a tripod when using the above combination, and the body being a 200 series gives me built-in metering. This is about as close to point-and-shoot as you can get with a Hasselblad V series camera - assuming you want accurate exposures. All of the work you see in the photo projects section of this site, with the exception of the panoramics, was shot with this camera - none of it studio based. And when you use this combination with the new digital back you quickly start to find the compromises.
 
 The first is obviously the crop factor of the digital back. The V cameras are "6x6", about 56mm x 56mm. The back is 44mm x 33mm. So a) no longer square, b) cropped enough to make your standard lens now a telephoto lens. Eh, that's not a big problem. Want square? Crop the crop. Need a wider angle? Walk back a few dozen steps. You will need a crop guideline for your focusing screen, and that is included with the CFV, or you could buy a replacement screen for a few hundred more Swiss Francs. Or you can take my low-tech approach and use a marker pen.
 
@@ -114,7 +129,7 @@ The quality of the older Hasselblad/Zeiss lenses? A lot of photographers will us
 
 There's a couple of final quirks in using this back with the 200 series cameras - the back recording an image is triggered by a pin in the camera linked to the shutter button. The same button can be used to take a meter reading without firing the shutter, so you can end up with lots of blank frames if you work that way (which I do). Also, the 200 series meters only go up to 6400 ISO, whereas the back can go to 25,600 meaning if you're shooting at that you need to also set the 200 series body to underexpose by 2 stops. There is no electronic synchronisation with the 200 series bodies, so changing ISOs can, again, be a bit of a faff (back *and* body). Minor issues.
 
-**Slower**
+<h4 id="slower">Slower</h4>
 
 If you don't want to attach the CFV II 50c back to an existing Hasselblad camera, or any other camera for that matter (which we will get to) and you don't want to purchase one of the dedicated X lenses, which are quite expensive, you can keep the 907x shim and put a lens adaptor on the front.
 
@@ -151,7 +166,7 @@ One last image shot after dark, in the rain - the camera is not weather sealed s
 
 The shutter scan speed is more of a problem. The electronic shutter takes 0.3s to scan across the entire frame, meaning moving subjects are difficult to capture. If you're using this combination handheld you're probably going to see artefacts from that. Really you want to put this on a tripod, and as I've already said I don't really work that way. Although to be fair it seems I am increasingly working that way...
 
-**Slowest**
+<h4 id="slowest">Slowest</h4>
 
 The CFV II 50c harkens back to the beginnings of photography and the camera obscura: It's just a thing that can display and optionally record an image. If you can attach it to something that is light tight with an opening on the front, and that something on the front can focus, then you can use it.
 
@@ -188,7 +203,7 @@ Oh and I haven't yet mentioned diffraction reducing sharpness if you stop down t
 
 So yes, it seems using this back with an adaptor on any existing film 4x5" kit you have is going to be one long list of compromises. So will I continue to do it? Almost certainly. Using a 4x5" kit with film is already a long list of compromises, not least of which is the ever increasing expense in shooting film. A box of 20 sheets of Velvia is now selling for about 100.- CHF. If I save ten boxes in using the back here I've already covered one third of the cost of the Hasselblad setup[^3]. *That* is pretty compelling.
 
-**So what next?**
+<h4 id="conclusion">So What Next?</h4>
 
 I will probably shoot far less film than I used to, although this has never been an issue. The camera to me is a tool to inform your approach, the medium it records on is not really important. The approach with this camera is different to others, that is the reason to use it.
 
@@ -203,9 +218,7 @@ I will still happily burn through an entire roll of film, at least in smaller fo
 <div class="nav_text">The Matterhorn, Mar 2021</div>
 </div>
 
-<div id="update"></div>
-
-**Update: 8th July 2023**
+<h4 id="update">Update: 8th July 2023</h4>
 
 Three years later I have just sold the last of my Hasselblad gear, including the 907x + CFV II 50c. I sold my 203FE back in January and today traded in my 202FA, 907x + CFV II 50c, and some various accessories for a Fuji GFX 100S + 50mm lens. The reasons are myriad, and can mostly be found in the writings above - compromises. I felt the back in combination with various other cameras wasn't very good and would rather just shoot film. Too many compromises.
 
@@ -216,6 +229,16 @@ My other reasons for moving away from Hasselblad are that I am over shooting med
 The GFX will now serve as my walk around and commission camera, and potentially for other project work. It will also be my <a href="/2023/01/25/scanner/">scanning solution</a> for my existing film workflow due to its high resolution and pixel shift features (more on this soon). It is also (now) almost half the price of Hasselblad's equivalent. I've had a Fuji x100T for almost a decade, being one of my favourite cameras, and this feels like its very bigger brother.
 
 I'm over Hasselblad. It was nice while it lasted, but I don't think they've made a truly great camera in almost two decades. The last great one was, coincidentally, made by Fuji (the XPan).
+
+<h4 id="update2">Update: 28th January 2024</h4>
+
+Earlier this week Hasselblad announced the updated version of the digital back, the CFV 100C. This is both unexpected and unsurprising. The enhancements address few of the above compromises, the only real one being the use of a back-illuminated sensor that will remove the colour fringing when using the camera with a technical camera with all but the widest angle lenses.
+
+That's a big win, but otherwise the high mega pixel count will be very much a case of more resolution more problems. Expect miss focus issues to be worse, camera shake issues to be worse (there is no image stabilisation included), the weaknesses of the older lenses to be more evident. The screen hasn't been improved, it will continue to be terrible in bright sunlight.
+
+Hasselblad will probably shift a few of these, the nostalgia aspect is still strong. The tech camera crowd will find use for it. And sure, as I wrote above, the 907x informs a different approach. But its frustrations still far outweigh its benefits, of which there are few in comparison to other available technology.
+
+Nostalgia is, indeed, a hell of a drug.
 
 <hr />
 
