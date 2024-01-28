@@ -25,7 +25,7 @@ tags:
 
 I shot the photo below during a visit to Zermatt in October 2020. It was my fifth time there, and the second time the weather had been clear enough to allow me to see the famous mountain. The first time I saw this scene, in May 2019, I knew immediately it was a photo. I mean, I knew immediately it was an interesting photo. I'm attracted to this kind of landscape photography, which I feel is a lot more grounded in the reality of the modern landscape than traditional landscape photography[^1].
 
-I only had my iPhone (5c) with me the first time, so I took <a href="https://www.instagram.com/p/ByIAMSyopKK/">a photo to make a note of the scene</a> assuming I would come back to it at some point with a camera designed for shooting scenes like this. That turned out to be 18 months later, resulting in the photo you see above, and I had a dedicated camera with me and not just my phone.
+I only had my iPhone (5c) with me the first time, so I took <a href="https://www.instagram.com/p/ByIAMSyopKK/">a photo to make a note of the scene</a> assuming I would come back to it at some point with a camera designed for shooting scenes like this. That turned out to be 18 months later, resulting in the photo you see below, and I had a dedicated camera with me and not just my phone.
 
 <div class="img-centre">
 <img width="1000px" src="{{ site.baseurl }}/images/2021/hasselblad/matterhorn_cfv.jpg" />
