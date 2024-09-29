@@ -38,7 +38,7 @@ The entire page *is* bollocks anyway. Oh look, Swiss health insurance premiums a
 
 The future of the web, people. It's all downhill from here.
 
-I'm not adverse to generative AI, and there's some interesting stuff happening around that space and there are definitely areas where it fits. I've even given a [talk about](https://www.youtube.com/watch?v=y3llSkCJnWk) my thoughts around this recently. Hero images is not one of those areas, because it seems the vast majority of places using them are incompetent at generating them, or just don't care.
+I'm not opposed to generative AI, and there's some interesting stuff happening around that space and there are definitely areas where it fits. I've even given a [talk about](https://www.youtube.com/watch?v=y3llSkCJnWk) my thoughts around this recently. Hero images is not one of those areas, because it seems the vast majority of places using them are incompetent at generating them, or just don't care.
 
 And if you don't care, why should I care?
 
