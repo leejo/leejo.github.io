@@ -199,4 +199,4 @@ Until next time, whenever or wherever that is...
 
 <hr />
 
-[^1]: IYNYK? Yes, I know.
+[^1]: IYKYK? Yes, I know.
