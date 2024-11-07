@@ -149,7 +149,7 @@ However, maintaining my diplomatic hat, and wanting to be accommodating to as ma
 
 Indeed that was the case, a few people attended the talks in person which were being streamed to the venue (or were existing recordings). I should say that the person who was handling all this in The Study was a pleasure to deal with on the day and prior to the event.
 
-Mercifully a key person from the SPC wasn't going to be there, which was a relief as they are contentious at their best and an absolute pain in the arse to deal at their worst, so that would remove quite a bit of stress.
+Mercifully a key person from the SPC wasn't going to be there, which was a relief as they are contentious at their best and an absolute pain in the arse to deal with at their worst, so that would remove quite a bit of stress.
 
 &lt;a very long tangent here removed that would add a lot more context but I'm *still* trying to retain some semblance of diplomacy here...&gt;
 
