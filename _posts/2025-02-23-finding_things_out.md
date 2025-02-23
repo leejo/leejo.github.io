@@ -1,5 +1,5 @@
 ---
-title: The Pleasure of Finding Things Out (D)
+title: The Pleasure of Finding Things Out
 date: 2025-02-23
 layout: blog
 tags:
