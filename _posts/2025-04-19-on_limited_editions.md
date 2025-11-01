@@ -4,7 +4,8 @@ date: 2025-04-19
 layout: blog
 tags:
     - vinyl
-    - photography
+    - tickets
+    - arseholes
 ---
 
 <div class="footnote">Or alternatively "<a href="/tags/vinyl/">Curiosities in Vinyl</a>, Part 4".</div>
