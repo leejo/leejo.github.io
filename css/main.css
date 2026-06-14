@@ -126,3 +126,37 @@ pre {
 .panoramic {
 	margin: 0 auto;
 }
+mark.black { color: #000000; background: none; }
+mark.white { color: #ffffff; background: none; }
+mark.fade_1 { color: #080808; background: none; }
+mark.fade_2 { color: #101010; background: none; }
+mark.fade_3 { color: #181818; background: none; }
+mark.fade_4 { color: #202020; background: none; }
+mark.fade_5 { color: #282828; background: none; }
+mark.fade_6 { color: #303030; background: none; }
+mark.fade_7 { color: #383838; background: none; }
+mark.fade_8 { color: #404040; background: none; }
+mark.fade_9 { color: #484848; background: none; }
+mark.fade_10 { color: #505050; background: none; }
+mark.fade_11 { color: #585858; background: none; }
+mark.fade_12 { color: #606060; background: none; }
+mark.fade_13 { color: #686868; background: none; }
+mark.fade_14 { color: #707070; background: none; }
+mark.fade_15 { color: #787878; background: none; }
+mark.fade_16 { color: #808080; background: none; }
+mark.fade_17 { color: #888888; background: none; }
+mark.fade_18 { color: #909090; background: none; }
+mark.fade_19 { color: #989898; background: none; }
+mark.fade_20 { color: #a0a0a0; background: none; }
+mark.fade_21 { color: #a8a8a8; background: none; }
+mark.fade_22 { color: #b0b0b0; background: none; }
+mark.fade_23 { color: #b8b8b8; background: none; }
+mark.fade_24 { color: #c0c0c0; background: none; }
+mark.fade_25 { color: #c8c8c8; background: none; }
+mark.fade_26 { color: #d0d0d0; background: none; }
+mark.fade_27 { color: #d8d8d8; background: none; }
+mark.fade_28 { color: #e0e0e0; background: none; }
+mark.fade_29 { color: #e8e8e8; background: none; }
+mark.fade_30 { color: #f0f0f0; background: none; }
+mark.fade_31 { color: #f8f8f8; background: none; }
+mark.fade_32 { color: #fdfdfd; background: none; }
