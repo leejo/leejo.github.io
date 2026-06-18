@@ -73,7 +73,7 @@ And then I woke up.
 
 <h4 id="fiddlers">Fiddlers in the Room</h4>
 
-There's a certain type of software engineer, I've met several times in my ongoing career, that I like to term a "fiddler". When the fiddler is tasked with solving a problem, instead of thinking "I will solve this problem" they instead think "I will solve this *particular class* of problem".
+There's a certain type of software engineer, I've met several times in my ongoing career, that I like to term a "fiddler". When the fiddler is tasked with solving a problem, instead of thinking "I will solve this problem" they think "I will solve this *particular class* of problem".
 
 The non-fiddler will pick an existing solution, and if there isn't one that fits they will code for the explicit problem at hand. The fiddler will build an entire system to cater for a hypothetical future and other people's unknowns.
 
