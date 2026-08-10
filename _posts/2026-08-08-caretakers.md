@@ -7,7 +7,7 @@ tags:
     - perl
 ---
 
-If you haven't been paying attention, which is likely given the small corner of the web I'm going to cover, you may have missed that BINGOS just hit 247 consecutive monthly uploads to CPAN[^1]. This is noteworthy as it surpasses DROLSKY's record set a while back.
+If you haven't been paying attention, which is likely given the small corner of the web I'm going to cover, you may have missed that BINGOS just hit 246 consecutive monthly uploads to CPAN[^1]. This is noteworthy as it surpasses DROLSKY's record set a while back.
 
 That's an upload to CPAN, once a month, for over twenty years. Once a month *minimum* I should say, as many of the authors on the board are uploading more frequently than that, some even daily.
 
