@@ -3,6 +3,7 @@ title: Ten Years With a Hasselblad
 layout: blog
 tags:
     - photography
+    - xpan
     - technicalities
     - hasselblad
 ---

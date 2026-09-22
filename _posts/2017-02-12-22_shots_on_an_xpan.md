@@ -3,6 +3,7 @@ title: How To Get 22 Frames With An XPan
 layout: blog
 tags:
     - photography
+    - xpan
     - technicalities
 ---
 

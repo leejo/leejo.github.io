@@ -3,6 +3,7 @@ title: Some Kind of PayPal Refund Scam
 layout: blog
 tags:
     - photography
+    - xpan
     - technicalities
     - paypal
 ---

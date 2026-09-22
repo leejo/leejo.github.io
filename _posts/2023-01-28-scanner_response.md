@@ -3,6 +3,7 @@ title: Responses to "I Almost Bought a Scanner"
 layout: blog
 tags:
     - photography
+    - xpan
     - technology
     - instagram
     - printing

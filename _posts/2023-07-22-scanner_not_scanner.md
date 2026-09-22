@@ -3,6 +3,7 @@ title: I Finally Bought a Scanner
 layout: blog
 tags:
     - photography
+    - xpan
     - technology
     - instagram
     - printing

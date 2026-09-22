@@ -3,6 +3,7 @@ title: The Reality of the Old and New
 layout: blog_wide
 tags:
     - photography
+    - xpan
     - technicalities
     - hasselblad
     - mountains
