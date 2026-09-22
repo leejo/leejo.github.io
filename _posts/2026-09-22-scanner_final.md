@@ -183,7 +183,7 @@ The figures in parentheses are what it would have cost me to have that number of
 
 A Power Mac G4 (discontinued in 2004). This came with the scanner, the necessary hardware and software to drive it, and is almost certainly living on borrowed time. Spinning metal is never good in the long-term. I'll maybe purchase a backup soon, as these can still be found for a couple of hundred Euros.
 
-The key thing though, is that this very expensive, very high quality scanner, will at some point be rendered useless by the upgrade treadmill because the softare required to run it will be increasingly difficult to run. A scanner that is still used by businesses, educational institutions, and individuals like me. A scanner that originally cost tens of thousands of Euros less than a decade ago.
+The key thing though, is that this very expensive, very high quality scanner, will at some point be rendered useless by the upgrade treadmill because the software required to run it will be increasingly difficult to run. A scanner that is still used by businesses, educational institutions, and individuals like me. A scanner that originally cost tens of thousands of Euros less than a decade ago.
 
 <div class="img-centre">
     <img width="650px" src="{{ site.baseurl }}/images/2026/scanner/do_not_upgrade.jpg" />
@@ -213,7 +213,7 @@ And, inevitably, discontinued hardware like this scanner. Or, that is to say, di
 
 Old hardware has new exciting ways to fail. As time goes on components will fail or loosen - components that were expected to last decades. Then that results in tribal knowledge, or worse link rot and QR code rot. A lot of this stuff is hidden in walled gardens. There's a Facebook Imacon group, for example.
 
-Why in the everloving fuck is a group for technical people, by technical people, on Facebook?
+Why in the ever-loving fuck is a group for technical people, by technical people, on Facebook?
 
 <div class="img-centre">
     <img width="650px" src="{{ site.baseurl }}/images/2026/scanner/chat_gpt.png" />
